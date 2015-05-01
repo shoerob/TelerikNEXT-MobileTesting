@@ -1,0 +1,3 @@
+[submodule "Friends"]
+	path = Friends
+	url = https://github.com/shoerob/FriendsApp.git
