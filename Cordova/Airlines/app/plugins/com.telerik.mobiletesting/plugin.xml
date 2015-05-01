@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
+    xmlns:android="http://schemes.android.com/apk/res/android"
+    id="com.telerik.mobiletesting"
+    version="2.3.0.2">
+    <name>com.telerik.mobiletesting</name>
+    <description>This plugin makes an app testable with Telerik Mobile Testing.</description>
+    <url>http://docs.telerik.com/platform/mobile-testing/overview</url>
+    <engines>
+        <engine name="cordova-ios" version=">=3.0.0" />
+        <engine name="cordova-android" version=">=3.0.0" />
+        <engine name="cordova-wp8" version=">=3.0.0" />
+    </engines>
+    <platform name="ios">
+        <!--<preference name="IOS_APP_URL"/>-->
+        <source-file src="src/ios/libMobileTestingExtension.a" framework="true" />
+        <framework src="libicucore.dylib" />
+        <framework src="Security.framework" />
+        <framework src="CFNetwork.framework" />
+        <config-file target="*-Info.plist" parent="CFBundleURLTypes">
+            <array>
+                <dict>
+                    <key>CFBundleTypeRole</key>
+                    <string>Editor</string>
+                    <key>CFBundleURLName</key>
+                    <string>com.telerik.automation</string>
+                    <key>CFBundleURLSchemes</key>
+                    <array>
+                        <!--<string>$IOS_APP_URL</string>-->
+                        <string>airlines</string>
+                    </array>
+                </dict>
+            </array>
+        </config-file>
+    </platform>
+    <platform name="android">
+        <lib-file src="src/android/MobileTestingExtension.jar" />
+        <lib-file src="src/android/dexmaker-1.1.jar" />
+        <config-file target="AndroidManifest.xml" parent="/manifest/application">
+            <activity android:name="com.telerik.testingextension.EntryPoint" android:theme="@android:style/Theme.NoDisplay">
+                <intent-filter>
+                <action android:name="com.telerik.testing.ACTION_AUTOMATE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            </activity>
+        </config-file>
+        <config-file target="AndroidManifest.xml" parent="/manifest">
+            <instrumentation android:targetPackage="$PACKAGE_NAME" android:name="com.telerik.testingextension.MobileTestingInstrumentation" />
+        </config-file>
+    </platform>
+    <platform name="wp8">
+        <framework src="src/wp8/Newtonsoft.Json.dll" custom="true" />
+        <framework src="src/wp8/SuperSocket.ClientEngine.Common.dll" custom="true" />
+        <framework src="src/wp8/SuperSocket.ClientEngine.Core.dll" custom="true" />
+        <framework src="src/wp8/SuperSocket.ClientEngine.Protocol.dll" custom="true" />
+        <framework src="src/wp8/Telerik.MobileTesting.Communication.dll" custom="true" />
+        <framework src="src/wp8/Telerik.MobileTesting.Extension.dll" custom="true" />
+        <framework src="src/wp8/WebSocket4Net.dll" custom="true" />
+        <config-file target="Properties/WMAppManifest.xml" parent="/Deployment/App" after="Tokens">
+            <Extensions>
+                <Protocol Name="defaultappurl" NavUriFragment="encodedLaunchUri=%s" TaskID="_default" />
+            </Extensions>
+        </config-file>
+    </platform>
+</plugin>

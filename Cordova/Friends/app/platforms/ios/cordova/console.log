@@ -1,0 +1,463 @@
+2015-04-30 14:14:42.437 Friends[92652:3025292] +[UIApplication (TSExtend) load]
+2015-04-30 14:14:42.455 Friends[92652:3025292] +[UITableView (TSTableView) load]
+2015-04-30 14:14:42.457 Friends[92652:3025292] +[UITextView (TSTextView) load]
+2015-04-30 14:14:42.473 Friends[92652:3025292] +[UIPickerView (TSPickerView) load]
+2015-04-30 14:14:42.505 Friends[92652:3025292] +[UITextField (TSTextField) Load]
+2015-04-30 14:14:42.505 Friends[92652:3025292] +[UICollectionView (TSCollectionView) load]
+2015-04-30 14:14:42.506 Friends[92652:3025292] +[UISearchBar (TSSearchBar) load]
+2015-04-30 14:14:42.506 Friends[92652:3025292] +[UIWebView (TSWebView) load]
+2015-04-30 14:14:42.556 Friends[92652:3025292] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/6BFDC776-0E90-492A-8BC6-C14AA0D44158/Library/Cookies/Cookies.binarycookies
+2015-04-30 14:14:42.632 Friends[92652:3025292] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 14:14:42.632 Friends[92652:3025292] Multi-tasking -> Device: YES, App: YES
+2015-04-30 14:14:42.633 Friends[92652:3025292] Unlimited access to network resources
+2015-04-30 14:14:42.635 Friends[92652:3025292] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 14:14:42.730 Friends[92652:3025292] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 14:14:42.747 Friends[92652:3025292] Injecting jsLib: 'SUCCESS'
+2015-04-30 14:14:42.754 Friends[92652:3025292] [CDVTimer][splashscreen] 5.235016ms
+2015-04-30 14:14:42.754 Friends[92652:3025292] [CDVTimer][TotalPluginStartup] 5.365968ms
+2015-04-30 14:14:42.831 Friends[92652:3025292] Starting Mobile Testing...
+2015-04-30 14:14:42.834 Friends[92652:3025292] TestStudioPlugin - startup
+2015-04-30 14:14:42.834 Friends[92652:3025292] TestStudioPlugin - startup command: (null)
+2015-04-30 14:14:42.835 Friends[92652:3025292] App starting normally...
+2015-04-30 14:14:43.069 Friends[92652:3025292] tsWebViewDidStartLoad:
+2015-04-30 14:14:43.069 Friends[92652:3025292] Resetting plugins due to page load.
+2015-04-30 14:14:43.228 Friends[92652:3025292] tsWebViewDidFinishLoad:
+2015-04-30 14:14:43.228 Friends[92652:3025292] Injecting jsLib: '_tsLib already exists'
+2015-04-30 14:14:43.229 Friends[92652:3025292] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/CBE089C5-B62D-49D1-A56E-C19DFE1D4910/Friends.app/www/index.html
+2015-04-30 14:39:39.518 Friends[93672:3044080] +[UIApplication (TSExtend) load]
+2015-04-30 14:39:39.522 Friends[93672:3044080] +[UITableView (TSTableView) load]
+2015-04-30 14:39:39.526 Friends[93672:3044080] +[UITextView (TSTextView) load]
+2015-04-30 14:39:39.527 Friends[93672:3044080] +[UIPickerView (TSPickerView) load]
+2015-04-30 14:39:39.529 Friends[93672:3044080] +[UITextField (TSTextField) Load]
+2015-04-30 14:39:39.529 Friends[93672:3044080] +[UICollectionView (TSCollectionView) load]
+2015-04-30 14:39:39.529 Friends[93672:3044080] +[UISearchBar (TSSearchBar) load]
+2015-04-30 14:39:39.530 Friends[93672:3044080] +[UIWebView (TSWebView) load]
+2015-04-30 14:39:39.614 Friends[93672:3044080] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/D25E6F78-62DD-46FD-83CA-6D8951EEF327/Library/Cookies/Cookies.binarycookies
+2015-04-30 14:39:39.681 Friends[93672:3044080] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 14:39:39.681 Friends[93672:3044080] Multi-tasking -> Device: YES, App: YES
+2015-04-30 14:39:39.683 Friends[93672:3044080] Unlimited access to network resources
+2015-04-30 14:39:39.685 Friends[93672:3044080] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 14:39:39.789 Friends[93672:3044080] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 14:39:39.805 Friends[93672:3044080] Injecting jsLib: 'SUCCESS'
+2015-04-30 14:39:39.811 Friends[93672:3044080] [CDVTimer][splashscreen] 4.949987ms
+2015-04-30 14:39:39.811 Friends[93672:3044080] [CDVTimer][TotalPluginStartup] 5.088031ms
+2015-04-30 14:39:39.817 Friends[93672:3044080] Starting Mobile Testing...
+2015-04-30 14:39:39.817 Friends[93672:3044080] TestStudioPlugin - startup
+2015-04-30 14:39:39.818 Friends[93672:3044080] TestStudioPlugin - startup command: (null)
+2015-04-30 14:39:39.818 Friends[93672:3044080] App starting normally...
+2015-04-30 14:39:39.857 Friends[93672:3044080] tsWebViewDidStartLoad:
+2015-04-30 14:39:39.857 Friends[93672:3044080] Resetting plugins due to page load.
+2015-04-30 14:39:39.864 Friends[93672:3044080] Stopping Mobile Testing...
+2015-04-30 14:39:39.864 Friends[93672:3044080] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 14:39:39.864 Friends[93672:3044080] Shutdown completed...
+2015-04-30 14:39:40.043 Friends[93672:3044080] tsWebViewDidFinishLoad:
+2015-04-30 14:39:40.044 Friends[93672:3044080] Injecting jsLib: '_tsLib already exists'
+2015-04-30 14:39:40.044 Friends[93672:3044080] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/84B74847-CC41-4AEB-86B8-445E21CD9BC8/Friends.app/www/index.html
+2015-04-30 14:45:02.884 Friends[94320:3049047] +[UIApplication (TSExtend) load]
+2015-04-30 14:45:02.926 Friends[94320:3049047] +[UITableView (TSTableView) load]
+2015-04-30 14:45:02.936 Friends[94320:3049047] +[UITextView (TSTextView) load]
+2015-04-30 14:45:02.955 Friends[94320:3049047] +[UIPickerView (TSPickerView) load]
+2015-04-30 14:45:02.973 Friends[94320:3049047] +[UITextField (TSTextField) Load]
+2015-04-30 14:45:02.973 Friends[94320:3049047] +[UICollectionView (TSCollectionView) load]
+2015-04-30 14:45:02.973 Friends[94320:3049047] +[UISearchBar (TSSearchBar) load]
+2015-04-30 14:45:02.974 Friends[94320:3049047] +[UIWebView (TSWebView) load]
+2015-04-30 14:45:03.105 Friends[94320:3049047] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/F9A84846-8FFE-4DD0-92CB-FCFD71371A0D/Library/Cookies/Cookies.binarycookies
+2015-04-30 14:45:03.175 Friends[94320:3049047] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 14:45:03.175 Friends[94320:3049047] Multi-tasking -> Device: YES, App: YES
+2015-04-30 14:45:03.176 Friends[94320:3049047] Unlimited access to network resources
+2015-04-30 14:45:03.179 Friends[94320:3049047] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 14:45:03.292 Friends[94320:3049047] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 14:45:03.306 Friends[94320:3049047] Injecting jsLib: 'SUCCESS'
+2015-04-30 14:45:03.312 Friends[94320:3049047] [CDVTimer][splashscreen] 4.207015ms
+2015-04-30 14:45:03.312 Friends[94320:3049047] [CDVTimer][TotalPluginStartup] 4.355967ms
+2015-04-30 14:45:03.406 Friends[94320:3049047] Starting Mobile Testing...
+2015-04-30 14:45:03.407 Friends[94320:3049047] TestStudioPlugin - startup
+2015-04-30 14:45:03.407 Friends[94320:3049047] TestStudioPlugin - startup command: (null)
+2015-04-30 14:45:03.408 Friends[94320:3049047] App starting normally...
+2015-04-30 14:45:03.951 Friends[94320:3049047] tsWebViewDidStartLoad:
+2015-04-30 14:45:03.951 Friends[94320:3049047] Resetting plugins due to page load.
+2015-04-30 14:45:03.990 Friends[94320:3049047] Stopping Mobile Testing...
+2015-04-30 14:45:03.990 Friends[94320:3049047] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 14:45:03.990 Friends[94320:3049047] Shutdown completed...
+2015-04-30 14:45:04.215 Friends[94320:3049047] tsWebViewDidFinishLoad:
+2015-04-30 14:45:04.216 Friends[94320:3049047] Injecting jsLib: '_tsLib already exists'
+2015-04-30 14:45:04.216 Friends[94320:3049047] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/11BEBAAE-9FE7-4ABB-8A96-4DD90223B58F/Friends.app/www/index.html
+2015-04-30 15:01:22.260 Friends[95360:3062979] +[UIApplication (TSExtend) load]
+2015-04-30 15:01:22.264 Friends[95360:3062979] +[UITableView (TSTableView) load]
+2015-04-30 15:01:22.266 Friends[95360:3062979] +[UITextView (TSTextView) load]
+2015-04-30 15:01:22.266 Friends[95360:3062979] +[UIPickerView (TSPickerView) load]
+2015-04-30 15:01:22.266 Friends[95360:3062979] +[UITextField (TSTextField) Load]
+2015-04-30 15:01:22.267 Friends[95360:3062979] +[UICollectionView (TSCollectionView) load]
+2015-04-30 15:01:22.267 Friends[95360:3062979] +[UISearchBar (TSSearchBar) load]
+2015-04-30 15:01:22.267 Friends[95360:3062979] +[UIWebView (TSWebView) load]
+2015-04-30 15:01:22.339 Friends[95360:3062979] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/24800690-3019-4806-B2FA-6DFEA0B0A98C/Library/Cookies/Cookies.binarycookies
+2015-04-30 15:01:22.516 Friends[95360:3062979] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 15:01:22.517 Friends[95360:3062979] Multi-tasking -> Device: YES, App: YES
+2015-04-30 15:01:22.519 Friends[95360:3062979] Unlimited access to network resources
+2015-04-30 15:01:22.522 Friends[95360:3062979] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 15:01:22.693 Friends[95360:3062979] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 15:01:22.710 Friends[95360:3062979] Injecting jsLib: 'SUCCESS'
+2015-04-30 15:01:22.716 Friends[95360:3062979] [CDVTimer][splashscreen] 4.860997ms
+2015-04-30 15:01:22.717 Friends[95360:3062979] [CDVTimer][TotalPluginStartup] 5.067945ms
+2015-04-30 15:01:22.724 Friends[95360:3062979] Starting Mobile Testing...
+2015-04-30 15:01:22.724 Friends[95360:3062979] TestStudioPlugin - startup
+2015-04-30 15:01:22.725 Friends[95360:3062979] TestStudioPlugin - startup command: (null)
+2015-04-30 15:01:22.725 Friends[95360:3062979] App starting normally...
+2015-04-30 15:01:22.808 Friends[95360:3062979] tsWebViewDidStartLoad:
+2015-04-30 15:01:22.808 Friends[95360:3062979] Resetting plugins due to page load.
+2015-04-30 15:01:23.043 Friends[95360:3062979] tsWebViewDidFinishLoad:
+2015-04-30 15:01:23.043 Friends[95360:3062979] Injecting jsLib: '_tsLib already exists'
+2015-04-30 15:01:23.043 Friends[95360:3062979] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/E854691B-F6C9-46B7-860A-FABD3339A273/Friends.app/www/index.html
+2015-04-30 15:01:23.664 Friends[95360:3062979] Stopping Mobile Testing...
+2015-04-30 15:01:23.664 Friends[95360:3062979] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 15:01:23.664 Friends[95360:3062979] Shutdown completed...
+2015-04-30 15:20:29.883 Friends[96092:3082571] +[UIApplication (TSExtend) load]
+2015-04-30 15:20:29.886 Friends[96092:3082571] +[UITableView (TSTableView) load]
+2015-04-30 15:20:29.888 Friends[96092:3082571] +[UITextView (TSTextView) load]
+2015-04-30 15:20:29.889 Friends[96092:3082571] +[UIPickerView (TSPickerView) load]
+2015-04-30 15:20:29.889 Friends[96092:3082571] +[UITextField (TSTextField) Load]
+2015-04-30 15:20:29.890 Friends[96092:3082571] +[UICollectionView (TSCollectionView) load]
+2015-04-30 15:20:29.890 Friends[96092:3082571] +[UISearchBar (TSSearchBar) load]
+2015-04-30 15:20:29.890 Friends[96092:3082571] +[UIWebView (TSWebView) load]
+2015-04-30 15:20:29.981 Friends[96092:3082571] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/269C47B4-9C2B-4296-B216-D562BF10CED3/Library/Cookies/Cookies.binarycookies
+2015-04-30 15:20:30.119 Friends[96092:3082571] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 15:20:30.120 Friends[96092:3082571] Multi-tasking -> Device: YES, App: YES
+2015-04-30 15:20:30.122 Friends[96092:3082571] Unlimited access to network resources
+2015-04-30 15:20:30.124 Friends[96092:3082571] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 15:20:30.232 Friends[96092:3082571] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 15:20:30.245 Friends[96092:3082571] Injecting jsLib: 'SUCCESS'
+2015-04-30 15:20:30.251 Friends[96092:3082571] [CDVTimer][splashscreen] 4.708052ms
+2015-04-30 15:20:30.252 Friends[96092:3082571] [CDVTimer][TotalPluginStartup] 4.862964ms
+2015-04-30 15:20:30.258 Friends[96092:3082571] Starting Mobile Testing...
+2015-04-30 15:20:30.258 Friends[96092:3082571] TestStudioPlugin - startup
+2015-04-30 15:20:30.259 Friends[96092:3082571] TestStudioPlugin - startup command: (null)
+2015-04-30 15:20:30.259 Friends[96092:3082571] App starting normally...
+2015-04-30 15:20:30.381 Friends[96092:3082571] tsWebViewDidStartLoad:
+2015-04-30 15:20:30.381 Friends[96092:3082571] Resetting plugins due to page load.
+2015-04-30 15:20:30.638 Friends[96092:3082571] tsWebViewDidFinishLoad:
+2015-04-30 15:20:30.638 Friends[96092:3082571] Injecting jsLib: '_tsLib already exists'
+2015-04-30 15:20:30.638 Friends[96092:3082571] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/2F1A9A4E-6B4E-44E8-A89D-31AB9B64E645/Friends.app/www/index.html
+2015-04-30 15:20:31.547 Friends[96092:3082571] Stopping Mobile Testing...
+2015-04-30 15:20:31.547 Friends[96092:3082571] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 15:20:31.548 Friends[96092:3082571] Shutdown completed...
+2015-04-30 15:24:27.955 Friends[96768:3086454] +[UIApplication (TSExtend) load]
+2015-04-30 15:24:27.957 Friends[96768:3086454] +[UITableView (TSTableView) load]
+2015-04-30 15:24:27.959 Friends[96768:3086454] +[UITextView (TSTextView) load]
+2015-04-30 15:24:27.959 Friends[96768:3086454] +[UIPickerView (TSPickerView) load]
+2015-04-30 15:24:27.959 Friends[96768:3086454] +[UITextField (TSTextField) Load]
+2015-04-30 15:24:27.959 Friends[96768:3086454] +[UICollectionView (TSCollectionView) load]
+2015-04-30 15:24:27.960 Friends[96768:3086454] +[UISearchBar (TSSearchBar) load]
+2015-04-30 15:24:27.960 Friends[96768:3086454] +[UIWebView (TSWebView) load]
+2015-04-30 15:24:28.026 Friends[96768:3086454] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/43230F18-DCC0-487C-858C-DC012C8B47CD/Library/Cookies/Cookies.binarycookies
+2015-04-30 15:24:28.231 Friends[96768:3086454] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 15:24:28.232 Friends[96768:3086454] Multi-tasking -> Device: YES, App: YES
+2015-04-30 15:24:28.235 Friends[96768:3086454] Unlimited access to network resources
+2015-04-30 15:24:28.238 Friends[96768:3086454] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 15:24:28.364 Friends[96768:3086454] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 15:24:28.377 Friends[96768:3086454] Injecting jsLib: 'SUCCESS'
+2015-04-30 15:24:28.382 Friends[96768:3086454] [CDVTimer][splashscreen] 4.260004ms
+2015-04-30 15:24:28.383 Friends[96768:3086454] [CDVTimer][TotalPluginStartup] 4.411995ms
+2015-04-30 15:24:28.388 Friends[96768:3086454] Starting Mobile Testing...
+2015-04-30 15:24:28.388 Friends[96768:3086454] TestStudioPlugin - startup
+2015-04-30 15:24:28.388 Friends[96768:3086454] TestStudioPlugin - startup command: (null)
+2015-04-30 15:24:28.388 Friends[96768:3086454] App starting normally...
+2015-04-30 15:24:28.480 Friends[96768:3086454] tsWebViewDidStartLoad:
+2015-04-30 15:24:28.480 Friends[96768:3086454] Resetting plugins due to page load.
+2015-04-30 15:24:28.684 Friends[96768:3086454] tsWebViewDidFinishLoad:
+2015-04-30 15:24:28.684 Friends[96768:3086454] Injecting jsLib: '_tsLib already exists'
+2015-04-30 15:24:28.684 Friends[96768:3086454] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/2ED835E9-94BB-455C-86CF-C627DBF1FA3F/Friends.app/www/index.html
+2015-04-30 15:24:29.633 Friends[96768:3086454] Stopping Mobile Testing...
+2015-04-30 15:24:29.633 Friends[96768:3086454] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 15:24:29.633 Friends[96768:3086454] Shutdown completed...
+2015-04-30 15:30:59.850 Friends[97459:3092897] +[UIApplication (TSExtend) load]
+2015-04-30 15:30:59.857 Friends[97459:3092897] +[UITableView (TSTableView) load]
+2015-04-30 15:30:59.860 Friends[97459:3092897] +[UITextView (TSTextView) load]
+2015-04-30 15:30:59.860 Friends[97459:3092897] +[UIPickerView (TSPickerView) load]
+2015-04-30 15:30:59.860 Friends[97459:3092897] +[UITextField (TSTextField) Load]
+2015-04-30 15:30:59.860 Friends[97459:3092897] +[UICollectionView (TSCollectionView) load]
+2015-04-30 15:30:59.861 Friends[97459:3092897] +[UISearchBar (TSSearchBar) load]
+2015-04-30 15:30:59.861 Friends[97459:3092897] +[UIWebView (TSWebView) load]
+2015-04-30 15:30:59.951 Friends[97459:3092897] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/F3D80621-95B8-4C05-B205-2FA8B16C30D5/Library/Cookies/Cookies.binarycookies
+2015-04-30 15:31:00.145 Friends[97459:3092897] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 15:31:00.146 Friends[97459:3092897] Multi-tasking -> Device: YES, App: YES
+2015-04-30 15:31:00.148 Friends[97459:3092897] Unlimited access to network resources
+2015-04-30 15:31:00.150 Friends[97459:3092897] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 15:31:00.271 Friends[97459:3092897] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 15:31:00.285 Friends[97459:3092897] Injecting jsLib: 'SUCCESS'
+2015-04-30 15:31:00.291 Friends[97459:3092897] [CDVTimer][splashscreen] 5.208015ms
+2015-04-30 15:31:00.291 Friends[97459:3092897] [CDVTimer][TotalPluginStartup] 5.371988ms
+2015-04-30 15:31:00.297 Friends[97459:3092897] Starting Mobile Testing...
+2015-04-30 15:31:00.297 Friends[97459:3092897] TestStudioPlugin - startup
+2015-04-30 15:31:00.298 Friends[97459:3092897] TestStudioPlugin - startup command: (null)
+2015-04-30 15:31:00.298 Friends[97459:3092897] App starting normally...
+2015-04-30 15:31:00.365 Friends[97459:3092897] tsWebViewDidStartLoad:
+2015-04-30 15:31:00.365 Friends[97459:3092897] Resetting plugins due to page load.
+2015-04-30 15:31:00.585 Friends[97459:3092897] tsWebViewDidFinishLoad:
+2015-04-30 15:31:00.585 Friends[97459:3092897] Injecting jsLib: '_tsLib already exists'
+2015-04-30 15:31:00.585 Friends[97459:3092897] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/3F31EC39-1345-4991-B8CF-FF1D4BBAFDAB/Friends.app/www/index.html
+2015-04-30 15:31:01.559 Friends[97459:3092897] Stopping Mobile Testing...
+2015-04-30 15:31:01.559 Friends[97459:3092897] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 15:31:01.559 Friends[97459:3092897] Shutdown completed...
+2015-04-30 15:32:17.128 Friends[98111:3095435] +[UIApplication (TSExtend) load]
+2015-04-30 15:32:17.151 Friends[98111:3095435] +[UITableView (TSTableView) load]
+2015-04-30 15:32:17.154 Friends[98111:3095435] +[UITextView (TSTextView) load]
+2015-04-30 15:32:17.154 Friends[98111:3095435] +[UIPickerView (TSPickerView) load]
+2015-04-30 15:32:17.154 Friends[98111:3095435] +[UITextField (TSTextField) Load]
+2015-04-30 15:32:17.154 Friends[98111:3095435] +[UICollectionView (TSCollectionView) load]
+2015-04-30 15:32:17.154 Friends[98111:3095435] +[UISearchBar (TSSearchBar) load]
+2015-04-30 15:32:17.155 Friends[98111:3095435] +[UIWebView (TSWebView) load]
+2015-04-30 15:32:17.280 Friends[98111:3095435] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/B140005E-4043-49A1-8EFB-51154315D12C/Library/Cookies/Cookies.binarycookies
+2015-04-30 15:32:17.421 Friends[98111:3095435] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 15:32:17.421 Friends[98111:3095435] Multi-tasking -> Device: YES, App: YES
+2015-04-30 15:32:17.425 Friends[98111:3095435] Unlimited access to network resources
+2015-04-30 15:32:17.428 Friends[98111:3095435] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 15:32:17.584 Friends[98111:3095435] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 15:32:17.598 Friends[98111:3095435] Injecting jsLib: 'SUCCESS'
+2015-04-30 15:32:17.606 Friends[98111:3095435] [CDVTimer][splashscreen] 5.810976ms
+2015-04-30 15:32:17.606 Friends[98111:3095435] [CDVTimer][TotalPluginStartup] 5.987048ms
+2015-04-30 15:32:17.612 Friends[98111:3095435] Starting Mobile Testing...
+2015-04-30 15:32:17.612 Friends[98111:3095435] TestStudioPlugin - startup
+2015-04-30 15:32:17.612 Friends[98111:3095435] TestStudioPlugin - startup command: (null)
+2015-04-30 15:32:17.613 Friends[98111:3095435] App starting normally...
+2015-04-30 15:32:17.657 Friends[98111:3095435] tsWebViewDidStartLoad:
+2015-04-30 15:32:17.658 Friends[98111:3095435] Resetting plugins due to page load.
+2015-04-30 15:32:17.864 Friends[98111:3095435] tsWebViewDidFinishLoad:
+2015-04-30 15:32:17.865 Friends[98111:3095435] Injecting jsLib: '_tsLib already exists'
+2015-04-30 15:32:17.865 Friends[98111:3095435] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/E453832B-AF9C-4E2A-80A6-332243505F99/Friends.app/www/index.html
+2015-04-30 15:32:18.856 Friends[98111:3095435] Stopping Mobile Testing...
+2015-04-30 15:32:18.856 Friends[98111:3095435] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 15:32:18.856 Friends[98111:3095435] Shutdown completed...
+2015-04-30 15:34:54.168 Friends[98111:3095435] Starting Mobile Testing...
+2015-04-30 15:34:54.168 Friends[98111:3095435] TestStudioPlugin - startup
+2015-04-30 15:34:54.171 Friends[98111:3095435] TestStudioPlugin - startup command: <TSLaunchForAutomationConnectionCommand: 0x7966cf90>
+2015-04-30 15:34:54.171 Friends[98111:3095435] Mobile Testing Extension initialized...
+2015-04-30 15:34:54.173 Friends[98111:3095435] Installing Crash Handler: TSPluginCrashHandler
+2015-04-30 15:34:54.180 Friends[98111:3095435] TSPluginCommandRunner - handleLaunchForAutomationConnectionCommand: <TSLaunchForAutomationConnectionCommand: 0x7966cf90>
+2015-04-30 15:34:54.180 Friends[98111:3095435] Starting with ConnectionInfo.
+2015-04-30 15:34:54.181 Friends[98111:3095435] TSWebSocketsClientRemoteAutomationProvider - start
+2015-04-30 15:34:54.188 Friends[98111:3095435] TSWebSocketsClientRemoteAutomationProvider - webSocketDidOpen:
+2015-04-30 15:34:54.188 Friends[98111:3095435] TSRemoteAutomationStateMachine - remoteAutomationProviderEstablishedConnection:
+2015-04-30 15:34:54.188 Friends[98111:3095435] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:34:54.188 Friends[98111:3095435] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"fromId":"server","toId":"bb4963c1-7a52-43fa-93e5-d553749f28ae","id":"d6ef879c-17da-4ec1-b549-e41cbbca1244","data":{"handshake":"hs_get_client_info"}}
+2015-04-30 15:34:54.190 Friends[98111:3095435] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:34:54.190 Friends[98111:3095435] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"fromId":"server","toId":"bb4963c1-7a52-43fa-93e5-d553749f28ae","id":"204e3960-da1a-4536-aa6d-90da1b600191","data":{"handshake":"hs_accepted","id":"aba58179-928b-43de-8e3b-40c46e76ebac"},"responseToMessageId":"F47909DE-88CF-4659-AA00-2F4CCC578C0B-98111-0000F5BD66B101B8"}
+2015-04-30 15:34:54.195 Friends[98111:3095435] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:34:54.195 Friends[98111:3095435] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"7fd8c786-d6de-40cb-ae32-f4b595c6c37a","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.value = \"seth\";(function() {if(!!targetElement.tagName.match(/^input|select|textarea$/i)){var e = document.createEvent(\"HTMLEvents\");e.initEvent(\"change\",true,true);targetElement.dispatchEvent(e);}})(); ","query":[{"id":"loginUsername"}],"getResult":true}}}},"fromId":"62f2b660-fa8f-44b6-b756-8886a3bf8843"}
+2015-04-30 15:34:54.594 Friends[98111:3097114] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:34:54.595 Friends[98111:3097114] Browser readyState: 'complete'
+2015-04-30 15:34:54.596 Friends[98111:3095435] Injecting jsLib: 'true'
+2015-04-30 15:34:54.601 Friends[98111:3095435] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:34:54.601 Friends[98111:3095435] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"0e66c736-66c4-4d4e-bcd3-1038c73ce978","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.value = \"333333\";(function() {if(!!targetElement.tagName.match(/^input|select|textarea$/i)){var e = document.createEvent(\"HTMLEvents\");e.initEvent(\"change\",true,true);targetElement.dispatchEvent(e);}})(); ","query":[{"id":"loginPassword"}],"getResult":true}}}},"fromId":"62f2b660-fa8f-44b6-b756-8886a3bf8843"}
+2015-04-30 15:34:55.000 Friends[98111:3097114] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:34:55.001 Friends[98111:3097114] Browser readyState: 'complete'
+2015-04-30 15:34:55.006 Friends[98111:3095435] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:34:55.006 Friends[98111:3095435] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"8c6f7258-442e-4954-a068-849352ab1aad","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var tl = [ { pageX: locX, pageY: locY, target: targetElement, identifier: 0 } ];var e = document.createEvent(\"UIEvents\");e.initUIEvent(\"touchstart\", true, true, window, 1);e.changedTouches = tl;e.touches = tl;targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseover\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousemove\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var tl = [ { pageX: locX, pageY: locY, target: targetElement, identifier: 0 } ];var e = document.createEvent(\"UIEvents\");e.initUIEvent(\"touchend\", true, true, window, 1);e.changedTouches = tl;e.touches = tl;targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"id":"login"}],"getResult":true}}}},"fromId":"62f2b660-fa8f-44b6-b756-8886a3bf8843"}
+2015-04-30 15:34:55.406 Friends[98111:3097095] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:34:55.407 Friends[98111:3097095] Browser readyState: 'complete'
+2015-04-30 15:34:58.420 Friends[98111:3095435] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:34:58.420 Friends[98111:3095435] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"bcbb3c0b-a837-4e3a-b01e-d3ddd92b2287","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.innerHTML","query":[{"className":"km-view-title"}],"getResult":true}}}},"fromId":"62f2b660-fa8f-44b6-b756-8886a3bf8843"}
+2015-04-30 15:34:58.820 Friends[98111:3097095] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:34:58.820 Friends[98111:3097095] Browser readyState: 'complete'
+2015-04-30 15:34:58.824 Friends[98111:3095435] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:34:58.824 Friends[98111:3095435] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"a913e4b9-a7b1-45cf-a5d0-2392a1d74260","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"coreApi.endExecution"},"fromId":"62f2b660-fa8f-44b6-b756-8886a3bf8843"}
+2015-04-30 15:34:58.826 Friends[98111:3095435] TSWebSocketsClientRemoteAutomationProvider - webSocket:didCloseWithCode:reason:wasClean:
+2015-04-30 15:34:58.826 Friends[98111:3095435] TSRemoteAutomationStateMachine - remoteAutomationProviderConnectionEnded:
+2015-04-30 15:41:00.266 Friends[99112:3104121] +[UIApplication (TSExtend) load]
+2015-04-30 15:41:00.270 Friends[99112:3104121] +[UITableView (TSTableView) load]
+2015-04-30 15:41:00.272 Friends[99112:3104121] +[UITextView (TSTextView) load]
+2015-04-30 15:41:00.273 Friends[99112:3104121] +[UIPickerView (TSPickerView) load]
+2015-04-30 15:41:00.274 Friends[99112:3104121] +[UITextField (TSTextField) Load]
+2015-04-30 15:41:00.274 Friends[99112:3104121] +[UICollectionView (TSCollectionView) load]
+2015-04-30 15:41:00.274 Friends[99112:3104121] +[UISearchBar (TSSearchBar) load]
+2015-04-30 15:41:00.275 Friends[99112:3104121] +[UIWebView (TSWebView) load]
+2015-04-30 15:41:00.391 Friends[99112:3104121] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/B8994D86-809E-4A88-87E4-C498AF73EFDF/Library/Cookies/Cookies.binarycookies
+2015-04-30 15:41:00.472 Friends[99112:3104121] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 15:41:00.473 Friends[99112:3104121] Multi-tasking -> Device: YES, App: YES
+2015-04-30 15:41:00.475 Friends[99112:3104121] Unlimited access to network resources
+2015-04-30 15:41:00.478 Friends[99112:3104121] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 15:41:00.612 Friends[99112:3104121] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 15:41:00.628 Friends[99112:3104121] Injecting jsLib: 'SUCCESS'
+2015-04-30 15:41:00.635 Friends[99112:3104121] [CDVTimer][splashscreen] 5.348027ms
+2015-04-30 15:41:00.635 Friends[99112:3104121] [CDVTimer][TotalPluginStartup] 5.519032ms
+2015-04-30 15:41:00.642 Friends[99112:3104121] Starting Mobile Testing...
+2015-04-30 15:41:00.642 Friends[99112:3104121] TestStudioPlugin - startup
+2015-04-30 15:41:00.643 Friends[99112:3104121] TestStudioPlugin - startup command: (null)
+2015-04-30 15:41:00.643 Friends[99112:3104121] App starting normally...
+2015-04-30 15:41:00.682 Friends[99112:3104121] tsWebViewDidStartLoad:
+2015-04-30 15:41:00.682 Friends[99112:3104121] Resetting plugins due to page load.
+2015-04-30 15:41:00.875 Friends[99112:3104121] tsWebViewDidFinishLoad:
+2015-04-30 15:41:00.876 Friends[99112:3104121] Injecting jsLib: '_tsLib already exists'
+2015-04-30 15:41:00.876 Friends[99112:3104121] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/F5264414-C8D0-4B69-9E71-DC2E848AE7FA/Friends.app/www/index.html
+2015-04-30 15:41:01.759 Friends[99112:3104121] Stopping Mobile Testing...
+2015-04-30 15:41:01.760 Friends[99112:3104121] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 15:41:01.760 Friends[99112:3104121] Shutdown completed...
+2015-04-30 15:41:33.639 Friends[99112:3104121] Starting Mobile Testing...
+2015-04-30 15:41:33.639 Friends[99112:3104121] TestStudioPlugin - startup
+2015-04-30 15:41:33.640 Friends[99112:3104121] TestStudioPlugin - startup command: <TSLaunchForAutomationConnectionCommand: 0x7b398070>
+2015-04-30 15:41:33.640 Friends[99112:3104121] Mobile Testing Extension initialized...
+2015-04-30 15:41:33.642 Friends[99112:3104121] Installing Crash Handler: TSPluginCrashHandler
+2015-04-30 15:41:33.647 Friends[99112:3104121] TSPluginCommandRunner - handleLaunchForAutomationConnectionCommand: <TSLaunchForAutomationConnectionCommand: 0x7b398070>
+2015-04-30 15:41:33.648 Friends[99112:3104121] Starting with ConnectionInfo.
+2015-04-30 15:41:33.648 Friends[99112:3104121] TSWebSocketsClientRemoteAutomationProvider - start
+2015-04-30 15:41:33.654 Friends[99112:3104121] TSWebSocketsClientRemoteAutomationProvider - webSocketDidOpen:
+2015-04-30 15:41:33.654 Friends[99112:3104121] TSRemoteAutomationStateMachine - remoteAutomationProviderEstablishedConnection:
+2015-04-30 15:41:33.655 Friends[99112:3104121] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:33.655 Friends[99112:3104121] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"fromId":"server","toId":"4c756fa5-d95d-4cf0-a5c3-3213fcc63f54","id":"2f2cb31b-68e6-45e6-b9dd-da0ae05405d9","data":{"handshake":"hs_get_client_info"}}
+2015-04-30 15:41:33.657 Friends[99112:3104121] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:33.657 Friends[99112:3104121] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"fromId":"server","toId":"4c756fa5-d95d-4cf0-a5c3-3213fcc63f54","id":"2a4ac876-454e-4692-950d-8ee176200767","data":{"handshake":"hs_accepted","id":"662273f9-ce95-4427-8f52-aa8f9de70fd6"},"responseToMessageId":"127FE255-AEB8-417B-A841-AAF1A5BA21E1-99112-0000F61A6902E7B7"}
+2015-04-30 15:41:33.662 Friends[99112:3104121] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:33.662 Friends[99112:3104121] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"4294f084-b53c-430e-a113-494c99b305e1","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.value = \"seth\";(function() {if(!!targetElement.tagName.match(/^input|select|textarea$/i)){var e = document.createEvent(\"HTMLEvents\");e.initEvent(\"change\",true,true);targetElement.dispatchEvent(e);}})(); ","query":[{"id":"loginUsername"}],"getResult":true}}}},"fromId":"eef13745-26aa-464a-ad12-4d6155b3a46c"}
+2015-04-30 15:41:34.063 Friends[99112:3104744] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:41:34.063 Friends[99112:3104744] Browser readyState: 'complete'
+2015-04-30 15:41:34.065 Friends[99112:3104121] Injecting jsLib: 'true'
+2015-04-30 15:41:34.078 Friends[99112:3104121] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:34.078 Friends[99112:3104121] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"fb73a8ea-6d69-4cc9-8833-b46fae6dc82e","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.value = \"333333\";(function() {if(!!targetElement.tagName.match(/^input|select|textarea$/i)){var e = document.createEvent(\"HTMLEvents\");e.initEvent(\"change\",true,true);targetElement.dispatchEvent(e);}})(); ","query":[{"id":"loginPassword"}],"getResult":true}}}},"fromId":"eef13745-26aa-464a-ad12-4d6155b3a46c"}
+2015-04-30 15:41:34.475 Friends[99112:3104744] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:41:34.476 Friends[99112:3104744] Browser readyState: 'complete'
+2015-04-30 15:41:34.479 Friends[99112:3104121] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:34.479 Friends[99112:3104121] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"5373b0ec-47f1-458e-a786-c4dcbce6b7e5","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var tl = [ { pageX: locX, pageY: locY, target: targetElement, identifier: 0 } ];var e = document.createEvent(\"UIEvents\");e.initUIEvent(\"touchstart\", true, true, window, 1);e.changedTouches = tl;e.touches = tl;targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseover\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousemove\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var tl = [ { pageX: locX, pageY: locY, target: targetElement, identifier: 0 } ];var e = document.createEvent(\"UIEvents\");e.initUIEvent(\"touchend\", true, true, window, 1);e.changedTouches = tl;e.touches = tl;targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"id":"login"}],"getResult":true}}}},"fromId":"eef13745-26aa-464a-ad12-4d6155b3a46c"}
+2015-04-30 15:41:34.877 Friends[99112:3104744] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:41:34.877 Friends[99112:3104744] Browser readyState: 'complete'
+2015-04-30 15:41:37.890 Friends[99112:3104121] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:37.890 Friends[99112:3104121] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"dd0a9eeb-2eb1-4607-b2bc-ce2b323d16ab","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.innerHTML","query":[{"className":"km-view-title"}],"getResult":true}}}},"fromId":"eef13745-26aa-464a-ad12-4d6155b3a46c"}
+2015-04-30 15:41:38.190 Friends[99112:3104748] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:41:38.191 Friends[99112:3104748] Browser readyState: 'complete'
+2015-04-30 15:41:38.194 Friends[99112:3104121] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:38.194 Friends[99112:3104121] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"7052dd50-8e96-40bd-aa1f-8dd814e44ec4","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"coreApi.endExecution"},"fromId":"eef13745-26aa-464a-ad12-4d6155b3a46c"}
+2015-04-30 15:41:38.196 Friends[99112:3104121] TSWebSocketsClientRemoteAutomationProvider - webSocket:didCloseWithCode:reason:wasClean:
+2015-04-30 15:41:38.196 Friends[99112:3104121] TSRemoteAutomationStateMachine - remoteAutomationProviderConnectionEnded:
+2015-05-01 14:29:41.411 Friends[16914:554195] +[UIApplication (TSExtend) load]
+2015-05-01 14:29:41.414 Friends[16914:554195] +[UITableView (TSTableView) load]
+2015-05-01 14:29:41.416 Friends[16914:554195] +[UITextView (TSTextView) load]
+2015-05-01 14:29:41.417 Friends[16914:554195] +[UIPickerView (TSPickerView) load]
+2015-05-01 14:29:41.418 Friends[16914:554195] +[UITextField (TSTextField) Load]
+2015-05-01 14:29:41.418 Friends[16914:554195] +[UICollectionView (TSCollectionView) load]
+2015-05-01 14:29:41.418 Friends[16914:554195] +[UISearchBar (TSSearchBar) load]
+2015-05-01 14:29:41.419 Friends[16914:554195] +[UIWebView (TSWebView) load]
+2015-05-01 14:29:41.502 Friends[16914:554195] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/9147273F-CBFE-4155-8C15-07FB4E616730/Library/Cookies/Cookies.binarycookies
+2015-05-01 14:29:41.677 Friends[16914:554195] Apache Cordova native platform version 3.7.0 is starting.
+2015-05-01 14:29:41.677 Friends[16914:554195] Multi-tasking -> Device: YES, App: YES
+2015-05-01 14:29:41.679 Friends[16914:554195] Unlimited access to network resources
+2015-05-01 14:29:41.682 Friends[16914:554195] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-01 14:29:41.814 Friends[16914:554195] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-05-01 14:29:41.828 Friends[16914:554195] Injecting jsLib: 'SUCCESS'
+2015-05-01 14:29:41.835 Friends[16914:554195] [CDVTimer][splashscreen] 4.567981ms
+2015-05-01 14:29:41.835 Friends[16914:554195] [CDVTimer][TotalPluginStartup] 4.718959ms
+2015-05-01 14:29:41.914 Friends[16914:554195] Starting Mobile Testing...
+2015-05-01 14:29:41.915 Friends[16914:554195] TestStudioPlugin - startup
+2015-05-01 14:29:41.915 Friends[16914:554195] TestStudioPlugin - startup command: (null)
+2015-05-01 14:29:41.915 Friends[16914:554195] App starting normally...
+2015-05-01 14:29:42.150 Friends[16914:554195] tsWebViewDidStartLoad:
+2015-05-01 14:29:42.150 Friends[16914:554195] Resetting plugins due to page load.
+2015-05-01 14:29:42.343 Friends[16914:554195] tsWebViewDidFinishLoad:
+2015-05-01 14:29:42.343 Friends[16914:554195] Injecting jsLib: '_tsLib already exists'
+2015-05-01 14:29:42.343 Friends[16914:554195] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/9B2440EF-9A76-4449-808D-F02CE64D539A/Friends.app/www/index.html
+2015-05-01 14:33:56.609 Friends[16914:554195] Swizzled UITableView delegate methods with JRSwizzle!
+2015-05-01 14:33:57.155 Friends[16914:554195] Stopping Mobile Testing...
+2015-05-01 14:33:57.155 Friends[16914:554195] Error: Attempted to stop state machine that was already stopped.
+2015-05-01 14:33:57.155 Friends[16914:554195] Shutdown completed...
+2015-05-01 14:34:24.674 Friends[16914:554195] Starting Mobile Testing...
+2015-05-01 14:34:24.674 Friends[16914:554195] TestStudioPlugin - startup
+2015-05-01 14:34:24.676 Friends[16914:554195] TestStudioPlugin - startup command: <TSLaunchForAutomationConnectionCommand: 0x7926de30>
+2015-05-01 14:34:24.676 Friends[16914:554195] Mobile Testing Extension initialized...
+2015-05-01 14:34:24.679 Friends[16914:554195] Installing Crash Handler: TSPluginCrashHandler
+2015-05-01 14:34:24.686 Friends[16914:554195] TSPluginCommandRunner - handleLaunchForAutomationConnectionCommand: <TSLaunchForAutomationConnectionCommand: 0x7926de30>
+2015-05-01 14:34:24.686 Friends[16914:554195] Starting with ConnectionInfo.
+2015-05-01 14:34:24.686 Friends[16914:554195] TSWebSocketsClientRemoteAutomationProvider - start
+2015-05-01 14:34:24.695 Friends[16914:554195] TSWebSocketsClientRemoteAutomationProvider - webSocketDidOpen:
+2015-05-01 14:34:24.695 Friends[16914:554195] TSRemoteAutomationStateMachine - remoteAutomationProviderEstablishedConnection:
+2015-05-01 14:34:24.695 Friends[16914:554195] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:24.695 Friends[16914:554195] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"fromId":"server","toId":"18c31c3e-7ce0-4581-afd1-285a135a5b78","id":"650acb61-b029-4908-8a68-f173bb070fd8","data":{"handshake":"hs_get_client_info"}}
+2015-05-01 14:34:24.698 Friends[16914:554195] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:24.698 Friends[16914:554195] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"fromId":"server","toId":"18c31c3e-7ce0-4581-afd1-285a135a5b78","id":"8f7616f7-43f8-4557-a7a5-87d57204457f","data":{"handshake":"hs_accepted","id":"1c5ad395-f10e-4aa4-8340-4cb43651b905"},"responseToMessageId":"849EE77B-10C6-40DF-B7E1-B3B1AAE4F654-16914-0000280B752D3225"}
+2015-05-01 14:34:24.705 Friends[16914:554195] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:24.705 Friends[16914:554195] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"1f90dc8d-a220-4b05-9dcd-6cc25236a9f9","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.value = \"seth\";(function() {if(!!targetElement.tagName.match(/^input|select|textarea$/i)){var e = document.createEvent(\"HTMLEvents\");e.initEvent(\"change\",true,true);targetElement.dispatchEvent(e);}})(); ","query":[{"id":"loginUsername"}],"getResult":true}}}},"fromId":"fcc5b189-2b1a-432a-acb3-7c8fcd1f9d42"}
+2015-05-01 14:34:25.103 Friends[16914:558508] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:25.104 Friends[16914:558508] Browser readyState: 'complete'
+2015-05-01 14:34:25.105 Friends[16914:554195] Injecting jsLib: 'true'
+2015-05-01 14:34:25.117 Friends[16914:554195] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:25.117 Friends[16914:554195] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"300633ad-cf85-48ad-857f-2b487fdce954","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.value = \"333333\";(function() {if(!!targetElement.tagName.match(/^input|select|textarea$/i)){var e = document.createEvent(\"HTMLEvents\");e.initEvent(\"change\",true,true);targetElement.dispatchEvent(e);}})(); ","query":[{"id":"loginPassword"}],"getResult":true}}}},"fromId":"fcc5b189-2b1a-432a-acb3-7c8fcd1f9d42"}
+2015-05-01 14:34:25.518 Friends[16914:558508] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:25.518 Friends[16914:558508] Browser readyState: 'complete'
+2015-05-01 14:34:25.522 Friends[16914:554195] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:25.523 Friends[16914:554195] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"a0d7c024-bbf5-4e9d-b4fe-257b70bb1015","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var tl = [ { pageX: locX, pageY: locY, target: targetElement, identifier: 0 } ];var e = document.createEvent(\"UIEvents\");e.initUIEvent(\"touchstart\", true, true, window, 1);e.changedTouches = tl;e.touches = tl;targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseover\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousemove\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var tl = [ { pageX: locX, pageY: locY, target: targetElement, identifier: 0 } ];var e = document.createEvent(\"UIEvents\");e.initUIEvent(\"touchend\", true, true, window, 1);e.changedTouches = tl;e.touches = tl;targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"id":"login"}],"getResult":true}}}},"fromId":"fcc5b189-2b1a-432a-acb3-7c8fcd1f9d42"}
+2015-05-01 14:34:25.919 Friends[16914:558508] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:25.920 Friends[16914:558508] Browser readyState: 'complete'
+2015-05-01 14:34:28.938 Friends[16914:554195] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:28.938 Friends[16914:554195] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"83ff308f-4285-42c0-9e59-16dd763b1ad9","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.innerHTML","query":[{"className":"km-view-title"}],"getResult":true}}}},"fromId":"fcc5b189-2b1a-432a-acb3-7c8fcd1f9d42"}
+2015-05-01 14:34:29.337 Friends[16914:558508] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:29.338 Friends[16914:558508] Browser readyState: 'complete'
+2015-05-01 14:34:29.341 Friends[16914:554195] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:29.341 Friends[16914:554195] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"468dd436-2676-41e6-9c6f-dee0dcc58117","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"coreApi.endExecution"},"fromId":"fcc5b189-2b1a-432a-acb3-7c8fcd1f9d42"}
+2015-05-01 14:34:29.345 Friends[16914:554195] TSWebSocketsClientRemoteAutomationProvider - webSocket:didCloseWithCode:reason:wasClean:
+2015-05-01 14:34:29.345 Friends[16914:554195] TSRemoteAutomationStateMachine - remoteAutomationProviderConnectionEnded:

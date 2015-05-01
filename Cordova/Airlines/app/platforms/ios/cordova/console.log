@@ -1,0 +1,610 @@
+2015-04-30 13:46:09.498 Airlines[91110:2998171] +[UIApplication (TSExtend) load]
+2015-04-30 13:46:09.532 Airlines[91110:2998171] +[UITableView (TSTableView) load]
+2015-04-30 13:46:09.536 Airlines[91110:2998171] +[UITextView (TSTextView) load]
+2015-04-30 13:46:09.552 Airlines[91110:2998171] +[UIPickerView (TSPickerView) load]
+2015-04-30 13:46:09.568 Airlines[91110:2998171] +[UITextField (TSTextField) Load]
+2015-04-30 13:46:09.568 Airlines[91110:2998171] +[UICollectionView (TSCollectionView) load]
+2015-04-30 13:46:09.569 Airlines[91110:2998171] +[UISearchBar (TSSearchBar) load]
+2015-04-30 13:46:09.569 Airlines[91110:2998171] +[UIWebView (TSWebView) load]
+2015-04-30 13:46:09.632 Airlines[91110:2998171] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/32BF95FC-188C-4892-B95D-F086E7DD6751/Library/Cookies/Cookies.binarycookies
+2015-04-30 13:46:09.736 Airlines[91110:2998171] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 13:46:09.737 Airlines[91110:2998171] Multi-tasking -> Device: YES, App: YES
+2015-04-30 13:46:09.738 Airlines[91110:2998171] Unlimited access to network resources
+2015-04-30 13:46:09.741 Airlines[91110:2998171] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 13:46:09.851 Airlines[91110:2998171] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 13:46:09.884 Airlines[91110:2998171] Injecting jsLib: 'SUCCESS'
+2015-04-30 13:46:10.002 Airlines[91110:2998171] Starting Mobile Testing...
+2015-04-30 13:46:10.003 Airlines[91110:2998171] TestStudioPlugin - startup
+2015-04-30 13:46:10.040 Airlines[91110:2998171] TestStudioPlugin - startup command: (null)
+2015-04-30 13:46:10.040 Airlines[91110:2998171] App starting normally...
+2015-04-30 13:46:10.292 Airlines[91110:2998171] tsWebViewDidStartLoad:
+2015-04-30 13:46:10.292 Airlines[91110:2998171] Resetting plugins due to page load.
+2015-04-30 13:46:10.569 Airlines[91110:2998171] tsWebViewDidFinishLoad:
+2015-04-30 13:46:10.569 Airlines[91110:2998171] Injecting jsLib: '_tsLib already exists'
+2015-04-30 13:46:10.569 Airlines[91110:2998171] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/364CEB51-0372-4848-83C8-1FF855E85E77/Airlines.app/www/index.html#logon
+2015-04-30 13:46:19.414 Airlines[91110:2998171] Swizzled UITableView delegate methods with JRSwizzle!
+2015-04-30 13:46:20.001 Airlines[91110:2998171] Stopping Mobile Testing...
+2015-04-30 13:46:20.001 Airlines[91110:2998171] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 13:46:20.002 Airlines[91110:2998171] Shutdown completed...
+2015-04-30 13:53:20.342 Airlines[91110:3003203] Communications error: <OS_xpc_error: <error: 0x34375f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x343783c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-04-30 13:54:39.062 Airlines[91700:3005917] +[UIApplication (TSExtend) load]
+2015-04-30 13:54:39.129 Airlines[91700:3005917] +[UITableView (TSTableView) load]
+2015-04-30 13:54:39.131 Airlines[91700:3005917] +[UITextView (TSTextView) load]
+2015-04-30 13:54:39.146 Airlines[91700:3005917] +[UIPickerView (TSPickerView) load]
+2015-04-30 13:54:39.164 Airlines[91700:3005917] +[UITextField (TSTextField) Load]
+2015-04-30 13:54:39.164 Airlines[91700:3005917] +[UICollectionView (TSCollectionView) load]
+2015-04-30 13:54:39.165 Airlines[91700:3005917] +[UISearchBar (TSSearchBar) load]
+2015-04-30 13:54:39.165 Airlines[91700:3005917] +[UIWebView (TSWebView) load]
+2015-04-30 13:54:39.244 Airlines[91700:3005917] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/BA77E8AC-0914-47E6-BDA5-81AF0EF934A6/Library/Cookies/Cookies.binarycookies
+2015-04-30 13:54:39.328 Airlines[91700:3005917] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 13:54:39.329 Airlines[91700:3005917] Multi-tasking -> Device: YES, App: YES
+2015-04-30 13:54:39.330 Airlines[91700:3005917] Unlimited access to network resources
+2015-04-30 13:54:39.332 Airlines[91700:3005917] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 13:54:39.430 Airlines[91700:3005917] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 13:54:39.454 Airlines[91700:3005917] Injecting jsLib: 'SUCCESS'
+2015-04-30 13:54:39.461 Airlines[91700:3005917] Starting Mobile Testing...
+2015-04-30 13:54:39.462 Airlines[91700:3005917] TestStudioPlugin - startup
+2015-04-30 13:54:39.491 Airlines[91700:3005917] TestStudioPlugin - startup command: (null)
+2015-04-30 13:54:39.491 Airlines[91700:3005917] App starting normally...
+2015-04-30 13:54:39.519 Airlines[91700:3005917] tsWebViewDidStartLoad:
+2015-04-30 13:54:39.519 Airlines[91700:3005917] Resetting plugins due to page load.
+2015-04-30 13:54:39.833 Airlines[91700:3005917] tsWebViewDidFinishLoad:
+2015-04-30 13:54:39.833 Airlines[91700:3005917] Injecting jsLib: '_tsLib already exists'
+2015-04-30 13:54:39.833 Airlines[91700:3005917] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/88A4CE40-6484-4C92-970A-9A5A24BB3A4A/Airlines.app/www/index.html#logon
+2015-04-30 14:13:53.989 Airlines[92304:3023676] +[UIApplication (TSExtend) load]
+2015-04-30 14:13:54.010 Airlines[92304:3023676] +[UITableView (TSTableView) load]
+2015-04-30 14:13:54.012 Airlines[92304:3023676] +[UITextView (TSTextView) load]
+2015-04-30 14:13:54.012 Airlines[92304:3023676] +[UIPickerView (TSPickerView) load]
+2015-04-30 14:13:54.012 Airlines[92304:3023676] +[UITextField (TSTextField) Load]
+2015-04-30 14:13:54.013 Airlines[92304:3023676] +[UICollectionView (TSCollectionView) load]
+2015-04-30 14:13:54.013 Airlines[92304:3023676] +[UISearchBar (TSSearchBar) load]
+2015-04-30 14:13:54.013 Airlines[92304:3023676] +[UIWebView (TSWebView) load]
+2015-04-30 14:13:54.094 Airlines[92304:3023676] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/97DCFE56-67A3-4763-975E-4568D9481F3E/Library/Cookies/Cookies.binarycookies
+2015-04-30 14:13:54.176 Airlines[92304:3023676] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 14:13:54.176 Airlines[92304:3023676] Multi-tasking -> Device: YES, App: YES
+2015-04-30 14:13:54.178 Airlines[92304:3023676] Unlimited access to network resources
+2015-04-30 14:13:54.180 Airlines[92304:3023676] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 14:13:54.274 Airlines[92304:3023676] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 14:13:54.291 Airlines[92304:3023676] Injecting jsLib: 'SUCCESS'
+2015-04-30 14:13:54.296 Airlines[92304:3023676] Starting Mobile Testing...
+2015-04-30 14:13:54.297 Airlines[92304:3023676] TestStudioPlugin - startup
+2015-04-30 14:13:54.324 Airlines[92304:3023676] TestStudioPlugin - startup command: (null)
+2015-04-30 14:13:54.324 Airlines[92304:3023676] App starting normally...
+2015-04-30 14:13:54.359 Airlines[92304:3023676] tsWebViewDidStartLoad:
+2015-04-30 14:13:54.359 Airlines[92304:3023676] Resetting plugins due to page load.
+2015-04-30 14:13:54.732 Airlines[92304:3023676] tsWebViewDidFinishLoad:
+2015-04-30 14:13:54.733 Airlines[92304:3023676] Injecting jsLib: '_tsLib already exists'
+2015-04-30 14:13:54.733 Airlines[92304:3023676] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/D2E6CBD0-1AF5-47E9-8C24-1EC059B79BD8/Airlines.app/www/index.html#logon
+2015-04-30 14:14:41.957 Airlines[92304:3023676] Stopping Mobile Testing...
+2015-04-30 14:14:41.960 Airlines[92304:3023676] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 14:14:41.960 Airlines[92304:3023676] Shutdown completed...
+2015-04-30 14:39:14.871 Airlines[93340:3042878] +[UIApplication (TSExtend) load]
+2015-04-30 14:39:14.873 Airlines[93340:3042878] +[UITableView (TSTableView) load]
+2015-04-30 14:39:14.875 Airlines[93340:3042878] +[UITextView (TSTextView) load]
+2015-04-30 14:39:14.876 Airlines[93340:3042878] +[UIPickerView (TSPickerView) load]
+2015-04-30 14:39:14.876 Airlines[93340:3042878] +[UITextField (TSTextField) Load]
+2015-04-30 14:39:14.876 Airlines[93340:3042878] +[UICollectionView (TSCollectionView) load]
+2015-04-30 14:39:14.877 Airlines[93340:3042878] +[UISearchBar (TSSearchBar) load]
+2015-04-30 14:39:14.877 Airlines[93340:3042878] +[UIWebView (TSWebView) load]
+2015-04-30 14:39:14.923 Airlines[93340:3042878] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/5F020FB3-8EA8-4609-ACD6-C88E51B36EAE/Library/Cookies/Cookies.binarycookies
+2015-04-30 14:39:15.026 Airlines[93340:3042878] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 14:39:15.027 Airlines[93340:3042878] Multi-tasking -> Device: YES, App: YES
+2015-04-30 14:39:15.028 Airlines[93340:3042878] Unlimited access to network resources
+2015-04-30 14:39:15.031 Airlines[93340:3042878] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 14:39:15.127 Airlines[93340:3042878] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 14:39:15.143 Airlines[93340:3042878] Injecting jsLib: 'SUCCESS'
+2015-04-30 14:39:15.151 Airlines[93340:3042878] Starting Mobile Testing...
+2015-04-30 14:39:15.151 Airlines[93340:3042878] TestStudioPlugin - startup
+2015-04-30 14:39:15.180 Airlines[93340:3042878] TestStudioPlugin - startup command: (null)
+2015-04-30 14:39:15.180 Airlines[93340:3042878] App starting normally...
+2015-04-30 14:39:15.211 Airlines[93340:3042878] tsWebViewDidStartLoad:
+2015-04-30 14:39:15.211 Airlines[93340:3042878] Resetting plugins due to page load.
+2015-04-30 14:39:15.492 Airlines[93340:3042878] tsWebViewDidFinishLoad:
+2015-04-30 14:39:15.492 Airlines[93340:3042878] Injecting jsLib: '_tsLib already exists'
+2015-04-30 14:39:15.492 Airlines[93340:3042878] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/B037AF1E-1338-4B15-AD85-D87DC146B37E/Airlines.app/www/index.html#logon
+2015-04-30 14:39:38.100 Airlines[93340:3042878] Stopping Mobile Testing...
+2015-04-30 14:39:38.103 Airlines[93340:3042878] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 14:39:38.103 Airlines[93340:3042878] Shutdown completed...
+2015-04-30 14:44:47.095 Airlines[94061:3048184] +[UIApplication (TSExtend) load]
+2015-04-30 14:44:47.128 Airlines[94061:3048184] +[UITableView (TSTableView) load]
+2015-04-30 14:44:47.129 Airlines[94061:3048184] +[UITextView (TSTextView) load]
+2015-04-30 14:44:47.148 Airlines[94061:3048184] +[UIPickerView (TSPickerView) load]
+2015-04-30 14:44:47.181 Airlines[94061:3048184] +[UITextField (TSTextField) Load]
+2015-04-30 14:44:47.181 Airlines[94061:3048184] +[UICollectionView (TSCollectionView) load]
+2015-04-30 14:44:47.182 Airlines[94061:3048184] +[UISearchBar (TSSearchBar) load]
+2015-04-30 14:44:47.182 Airlines[94061:3048184] +[UIWebView (TSWebView) load]
+2015-04-30 14:44:47.236 Airlines[94061:3048184] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/5EA10B9F-35EC-4E3B-AA0D-CB7008426185/Library/Cookies/Cookies.binarycookies
+2015-04-30 14:44:47.296 Airlines[94061:3048184] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 14:44:47.297 Airlines[94061:3048184] Multi-tasking -> Device: YES, App: YES
+2015-04-30 14:44:47.298 Airlines[94061:3048184] Unlimited access to network resources
+2015-04-30 14:44:47.300 Airlines[94061:3048184] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 14:44:47.401 Airlines[94061:3048184] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 14:44:47.417 Airlines[94061:3048184] Injecting jsLib: 'SUCCESS'
+2015-04-30 14:44:47.500 Airlines[94061:3048184] Starting Mobile Testing...
+2015-04-30 14:44:47.501 Airlines[94061:3048184] TestStudioPlugin - startup
+2015-04-30 14:44:47.529 Airlines[94061:3048184] TestStudioPlugin - startup command: (null)
+2015-04-30 14:44:47.529 Airlines[94061:3048184] App starting normally...
+2015-04-30 14:44:47.861 Airlines[94061:3048184] tsWebViewDidStartLoad:
+2015-04-30 14:44:47.862 Airlines[94061:3048184] Resetting plugins due to page load.
+2015-04-30 14:44:48.142 Airlines[94061:3048184] tsWebViewDidFinishLoad:
+2015-04-30 14:44:48.142 Airlines[94061:3048184] Injecting jsLib: '_tsLib already exists'
+2015-04-30 14:44:48.142 Airlines[94061:3048184] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/B9CD3F3F-4E3A-4F6D-B03E-4D95591BFF5C/Airlines.app/www/index.html#logon
+2015-04-30 14:45:02.409 Airlines[94061:3048184] Stopping Mobile Testing...
+2015-04-30 14:45:02.409 Airlines[94061:3048184] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 14:45:02.409 Airlines[94061:3048184] Shutdown completed...
+2015-04-30 15:01:06.823 Airlines[95100:3062110] +[UIApplication (TSExtend) load]
+2015-04-30 15:01:06.841 Airlines[95100:3062110] +[UITableView (TSTableView) load]
+2015-04-30 15:01:06.843 Airlines[95100:3062110] +[UITextView (TSTextView) load]
+2015-04-30 15:01:06.843 Airlines[95100:3062110] +[UIPickerView (TSPickerView) load]
+2015-04-30 15:01:06.843 Airlines[95100:3062110] +[UITextField (TSTextField) Load]
+2015-04-30 15:01:06.843 Airlines[95100:3062110] +[UICollectionView (TSCollectionView) load]
+2015-04-30 15:01:06.843 Airlines[95100:3062110] +[UISearchBar (TSSearchBar) load]
+2015-04-30 15:01:06.844 Airlines[95100:3062110] +[UIWebView (TSWebView) load]
+2015-04-30 15:01:06.903 Airlines[95100:3062110] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/91598912-9419-4BE5-94E2-4FE1A7EDAF34/Library/Cookies/Cookies.binarycookies
+2015-04-30 15:01:06.961 Airlines[95100:3062110] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 15:01:06.961 Airlines[95100:3062110] Multi-tasking -> Device: YES, App: YES
+2015-04-30 15:01:06.962 Airlines[95100:3062110] Unlimited access to network resources
+2015-04-30 15:01:06.964 Airlines[95100:3062110] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 15:01:07.054 Airlines[95100:3062110] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 15:01:07.070 Airlines[95100:3062110] Injecting jsLib: 'SUCCESS'
+2015-04-30 15:01:07.075 Airlines[95100:3062110] Starting Mobile Testing...
+2015-04-30 15:01:07.075 Airlines[95100:3062110] TestStudioPlugin - startup
+2015-04-30 15:01:07.103 Airlines[95100:3062110] TestStudioPlugin - startup command: (null)
+2015-04-30 15:01:07.104 Airlines[95100:3062110] App starting normally...
+2015-04-30 15:01:07.132 Airlines[95100:3062110] tsWebViewDidStartLoad:
+2015-04-30 15:01:07.132 Airlines[95100:3062110] Resetting plugins due to page load.
+2015-04-30 15:01:07.406 Airlines[95100:3062110] tsWebViewDidFinishLoad:
+2015-04-30 15:01:07.406 Airlines[95100:3062110] Injecting jsLib: '_tsLib already exists'
+2015-04-30 15:01:07.406 Airlines[95100:3062110] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/5D1CAAF9-3D5C-4D3F-89D4-B066802E2E04/Airlines.app/www/index.html#logon
+2015-04-30 15:01:22.127 Airlines[95100:3062110] Stopping Mobile Testing...
+2015-04-30 15:01:22.128 Airlines[95100:3062110] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 15:01:22.128 Airlines[95100:3062110] Shutdown completed...
+2015-04-30 15:20:13.114 Airlines[95784:3081658] +[UIApplication (TSExtend) load]
+2015-04-30 15:20:13.154 Airlines[95784:3081658] +[UITableView (TSTableView) load]
+2015-04-30 15:20:13.157 Airlines[95784:3081658] +[UITextView (TSTextView) load]
+2015-04-30 15:20:13.176 Airlines[95784:3081658] +[UIPickerView (TSPickerView) load]
+2015-04-30 15:20:13.193 Airlines[95784:3081658] +[UITextField (TSTextField) Load]
+2015-04-30 15:20:13.193 Airlines[95784:3081658] +[UICollectionView (TSCollectionView) load]
+2015-04-30 15:20:13.194 Airlines[95784:3081658] +[UISearchBar (TSSearchBar) load]
+2015-04-30 15:20:13.194 Airlines[95784:3081658] +[UIWebView (TSWebView) load]
+2015-04-30 15:20:13.265 Airlines[95784:3081658] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/F8D7805B-38C8-45D1-A26C-2A454CA3616A/Library/Cookies/Cookies.binarycookies
+2015-04-30 15:20:13.358 Airlines[95784:3081658] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 15:20:13.358 Airlines[95784:3081658] Multi-tasking -> Device: YES, App: YES
+2015-04-30 15:20:13.360 Airlines[95784:3081658] Unlimited access to network resources
+2015-04-30 15:20:13.362 Airlines[95784:3081658] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 15:20:13.452 Airlines[95784:3081658] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 15:20:13.471 Airlines[95784:3081658] Injecting jsLib: 'SUCCESS'
+2015-04-30 15:20:13.478 Airlines[95784:3081658] Starting Mobile Testing...
+2015-04-30 15:20:13.479 Airlines[95784:3081658] TestStudioPlugin - startup
+2015-04-30 15:20:13.507 Airlines[95784:3081658] TestStudioPlugin - startup command: (null)
+2015-04-30 15:20:13.508 Airlines[95784:3081658] App starting normally...
+2015-04-30 15:20:13.548 Airlines[95784:3081658] tsWebViewDidStartLoad:
+2015-04-30 15:20:13.548 Airlines[95784:3081658] Resetting plugins due to page load.
+2015-04-30 15:20:13.908 Airlines[95784:3081658] tsWebViewDidFinishLoad:
+2015-04-30 15:20:13.908 Airlines[95784:3081658] Injecting jsLib: '_tsLib already exists'
+2015-04-30 15:20:13.908 Airlines[95784:3081658] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/364899E5-A80F-4881-8D86-AAD42A30BFB8/Airlines.app/www/index.html#logon
+2015-04-30 15:20:29.737 Airlines[95784:3081658] Stopping Mobile Testing...
+2015-04-30 15:20:29.737 Airlines[95784:3081658] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 15:20:29.737 Airlines[95784:3081658] Shutdown completed...
+2015-04-30 15:24:11.881 Airlines[96506:3085615] +[UIApplication (TSExtend) load]
+2015-04-30 15:24:11.885 Airlines[96506:3085615] +[UITableView (TSTableView) load]
+2015-04-30 15:24:11.887 Airlines[96506:3085615] +[UITextView (TSTextView) load]
+2015-04-30 15:24:11.888 Airlines[96506:3085615] +[UIPickerView (TSPickerView) load]
+2015-04-30 15:24:11.888 Airlines[96506:3085615] +[UITextField (TSTextField) Load]
+2015-04-30 15:24:11.891 Airlines[96506:3085615] +[UICollectionView (TSCollectionView) load]
+2015-04-30 15:24:11.892 Airlines[96506:3085615] +[UISearchBar (TSSearchBar) load]
+2015-04-30 15:24:11.892 Airlines[96506:3085615] +[UIWebView (TSWebView) load]
+2015-04-30 15:24:12.021 Airlines[96506:3085615] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/1CC13B67-D69F-47D7-BBA9-8E255BBB71BE/Library/Cookies/Cookies.binarycookies
+2015-04-30 15:24:12.158 Airlines[96506:3085615] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 15:24:12.158 Airlines[96506:3085615] Multi-tasking -> Device: YES, App: YES
+2015-04-30 15:24:12.160 Airlines[96506:3085615] Unlimited access to network resources
+2015-04-30 15:24:12.162 Airlines[96506:3085615] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 15:24:12.269 Airlines[96506:3085615] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 15:24:12.281 Airlines[96506:3085615] Injecting jsLib: 'SUCCESS'
+2015-04-30 15:24:12.287 Airlines[96506:3085615] Starting Mobile Testing...
+2015-04-30 15:24:12.287 Airlines[96506:3085615] TestStudioPlugin - startup
+2015-04-30 15:24:12.316 Airlines[96506:3085615] TestStudioPlugin - startup command: (null)
+2015-04-30 15:24:12.316 Airlines[96506:3085615] App starting normally...
+2015-04-30 15:24:12.339 Airlines[96506:3085615] tsWebViewDidStartLoad:
+2015-04-30 15:24:12.339 Airlines[96506:3085615] Resetting plugins due to page load.
+2015-04-30 15:24:12.601 Airlines[96506:3085615] tsWebViewDidFinishLoad:
+2015-04-30 15:24:12.601 Airlines[96506:3085615] Injecting jsLib: '_tsLib already exists'
+2015-04-30 15:24:12.602 Airlines[96506:3085615] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/58917418-DD11-4F1C-8E11-0467D024F2D9/Airlines.app/www/index.html#logon
+2015-04-30 15:24:27.843 Airlines[96506:3085615] Stopping Mobile Testing...
+2015-04-30 15:24:27.843 Airlines[96506:3085615] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 15:24:27.843 Airlines[96506:3085615] Shutdown completed...
+2015-04-30 15:30:43.416 Airlines[97197:3092035] +[UIApplication (TSExtend) load]
+2015-04-30 15:30:43.418 Airlines[97197:3092035] +[UITableView (TSTableView) load]
+2015-04-30 15:30:43.420 Airlines[97197:3092035] +[UITextView (TSTextView) load]
+2015-04-30 15:30:43.420 Airlines[97197:3092035] +[UIPickerView (TSPickerView) load]
+2015-04-30 15:30:43.420 Airlines[97197:3092035] +[UITextField (TSTextField) Load]
+2015-04-30 15:30:43.421 Airlines[97197:3092035] +[UICollectionView (TSCollectionView) load]
+2015-04-30 15:30:43.421 Airlines[97197:3092035] +[UISearchBar (TSSearchBar) load]
+2015-04-30 15:30:43.421 Airlines[97197:3092035] +[UIWebView (TSWebView) load]
+2015-04-30 15:30:43.485 Airlines[97197:3092035] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/8623C9B0-71BF-4D51-86B8-DDBCF22B2F05/Library/Cookies/Cookies.binarycookies
+2015-04-30 15:30:43.644 Airlines[97197:3092035] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 15:30:43.645 Airlines[97197:3092035] Multi-tasking -> Device: YES, App: YES
+2015-04-30 15:30:43.647 Airlines[97197:3092035] Unlimited access to network resources
+2015-04-30 15:30:43.649 Airlines[97197:3092035] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 15:30:43.763 Airlines[97197:3092035] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 15:30:43.776 Airlines[97197:3092035] Injecting jsLib: 'SUCCESS'
+2015-04-30 15:30:43.783 Airlines[97197:3092035] Starting Mobile Testing...
+2015-04-30 15:30:43.783 Airlines[97197:3092035] TestStudioPlugin - startup
+2015-04-30 15:30:43.814 Airlines[97197:3092035] TestStudioPlugin - startup command: (null)
+2015-04-30 15:30:43.814 Airlines[97197:3092035] App starting normally...
+2015-04-30 15:30:43.841 Airlines[97197:3092035] tsWebViewDidStartLoad:
+2015-04-30 15:30:43.841 Airlines[97197:3092035] Resetting plugins due to page load.
+2015-04-30 15:30:44.155 Airlines[97197:3092035] tsWebViewDidFinishLoad:
+2015-04-30 15:30:44.156 Airlines[97197:3092035] Injecting jsLib: '_tsLib already exists'
+2015-04-30 15:30:44.156 Airlines[97197:3092035] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/A0ED601E-7C57-47B2-9FC4-620747FA3BB9/Airlines.app/www/index.html#logon
+2015-04-30 15:30:59.715 Airlines[97197:3092035] Stopping Mobile Testing...
+2015-04-30 15:30:59.715 Airlines[97197:3092035] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 15:30:59.715 Airlines[97197:3092035] Shutdown completed...
+2015-04-30 15:32:00.369 Airlines[97846:3094442] +[UIApplication (TSExtend) load]
+2015-04-30 15:32:00.373 Airlines[97846:3094442] +[UITableView (TSTableView) load]
+2015-04-30 15:32:00.375 Airlines[97846:3094442] +[UITextView (TSTextView) load]
+2015-04-30 15:32:00.375 Airlines[97846:3094442] +[UIPickerView (TSPickerView) load]
+2015-04-30 15:32:00.376 Airlines[97846:3094442] +[UITextField (TSTextField) Load]
+2015-04-30 15:32:00.376 Airlines[97846:3094442] +[UICollectionView (TSCollectionView) load]
+2015-04-30 15:32:00.376 Airlines[97846:3094442] +[UISearchBar (TSSearchBar) load]
+2015-04-30 15:32:00.376 Airlines[97846:3094442] +[UIWebView (TSWebView) load]
+2015-04-30 15:32:00.474 Airlines[97846:3094442] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/52040641-D030-45A1-85D2-A50F472ABFAA/Library/Cookies/Cookies.binarycookies
+2015-04-30 15:32:00.603 Airlines[97846:3094442] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 15:32:00.603 Airlines[97846:3094442] Multi-tasking -> Device: YES, App: YES
+2015-04-30 15:32:00.608 Airlines[97846:3094442] Unlimited access to network resources
+2015-04-30 15:32:00.610 Airlines[97846:3094442] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 15:32:00.712 Airlines[97846:3094442] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 15:32:00.725 Airlines[97846:3094442] Injecting jsLib: 'SUCCESS'
+2015-04-30 15:32:00.731 Airlines[97846:3094442] Starting Mobile Testing...
+2015-04-30 15:32:00.731 Airlines[97846:3094442] TestStudioPlugin - startup
+2015-04-30 15:32:00.732 Airlines[97846:3094442] TestStudioPlugin - startup command: (null)
+2015-04-30 15:32:00.732 Airlines[97846:3094442] App starting normally...
+2015-04-30 15:32:00.794 Airlines[97846:3094442] tsWebViewDidStartLoad:
+2015-04-30 15:32:00.794 Airlines[97846:3094442] Resetting plugins due to page load.
+2015-04-30 15:32:01.061 Airlines[97846:3094442] tsWebViewDidFinishLoad:
+2015-04-30 15:32:01.062 Airlines[97846:3094442] Injecting jsLib: '_tsLib already exists'
+2015-04-30 15:32:01.062 Airlines[97846:3094442] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/F3F153BF-1731-4CDA-A9C2-8E3A0037889F/Airlines.app/www/index.html#logon
+2015-04-30 15:32:16.866 Airlines[97846:3094442] Stopping Mobile Testing...
+2015-04-30 15:32:16.866 Airlines[97846:3094442] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 15:32:16.866 Airlines[97846:3094442] Shutdown completed...
+2015-04-30 15:33:25.777 Airlines[97846:3094442] Starting Mobile Testing...
+2015-04-30 15:33:25.777 Airlines[97846:3094442] TestStudioPlugin - startup
+2015-04-30 15:33:25.779 Airlines[97846:3094442] TestStudioPlugin - startup command: <TSLaunchForAutomationConnectionCommand: 0x79dae970>
+2015-04-30 15:33:25.779 Airlines[97846:3094442] Mobile Testing Extension initialized...
+2015-04-30 15:33:25.783 Airlines[97846:3094442] Installing Crash Handler: TSPluginCrashHandler
+2015-04-30 15:33:25.790 Airlines[97846:3094442] TSPluginCommandRunner - handleLaunchForAutomationConnectionCommand: <TSLaunchForAutomationConnectionCommand: 0x79dae970>
+2015-04-30 15:33:25.790 Airlines[97846:3094442] Starting with ConnectionInfo.
+2015-04-30 15:33:25.790 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - start
+2015-04-30 15:33:25.797 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocketDidOpen:
+2015-04-30 15:33:25.797 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProviderEstablishedConnection:
+2015-04-30 15:33:25.797 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:25.798 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"fromId":"server","toId":"354f88b4-3b9f-4210-9201-d5ec9886f2fa","id":"2af137d6-d704-42a4-b267-8a5315797071","data":{"handshake":"hs_get_client_info"}}
+2015-04-30 15:33:25.800 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:25.800 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"fromId":"server","toId":"354f88b4-3b9f-4210-9201-d5ec9886f2fa","id":"f3172520-e7b0-4781-ad4e-71bed8e8c056","data":{"handshake":"hs_accepted","id":"aba58179-928b-43de-8e3b-40c46e76ebac"},"responseToMessageId":"4278C7C9-871A-40E6-9004-8976F48CDE38-97846-0000F5A8D2297432"}
+2015-04-30 15:33:25.814 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:25.814 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"e456d5a6-ae3e-4fb4-a7f0-10b929debc23","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent = \"jaxon.daniels@gmail.com\";","query":[{"tagName":"input","index":0}],"getResult":true}}}},"fromId":"dc353c74-493f-433f-97a4-56c051c195bf"}
+2015-04-30 15:33:26.215 Airlines[97846:3096416] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:33:26.216 Airlines[97846:3096416] Browser readyState: 'complete'
+2015-04-30 15:33:26.217 Airlines[97846:3094442] Injecting jsLib: 'true'
+2015-04-30 15:33:26.221 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:26.222 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"c0dc1113-46b0-4386-9381-4d19490258d6","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent = \"P2ssw0rd\";","query":[{"tagName":"input","index":1}],"getResult":true}}}},"fromId":"dc353c74-493f-433f-97a4-56c051c195bf"}
+2015-04-30 15:33:26.622 Airlines[97846:3096416] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:33:26.622 Airlines[97846:3096416] Browser readyState: 'complete'
+2015-04-30 15:33:26.626 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:26.626 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"e8aeb188-48e3-4975-9525-f40b4c38ad44","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"tagName":"input","index":2}],"getResult":true}}}},"fromId":"dc353c74-493f-433f-97a4-56c051c195bf"}
+2015-04-30 15:33:27.025 Airlines[97846:3096416] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:33:27.025 Airlines[97846:3096416] Browser readyState: 'complete'
+2015-04-30 15:33:37.049 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:37.049 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"93df354a-6a11-4445-b558-125e13f7c590","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"tagName":"a","index":0}],"getResult":true}}}},"fromId":"dc353c74-493f-433f-97a4-56c051c195bf"}
+2015-04-30 15:33:37.446 Airlines[97846:3096463] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:33:37.447 Airlines[97846:3096463] Browser readyState: 'complete'
+2015-04-30 15:33:37.488 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:37.488 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"3ee77502-01a7-4494-b0b1-237f66d80932","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"xpath":"//*[@id=\"1111\"]"}],"getResult":true}}}},"fromId":"dc353c74-493f-433f-97a4-56c051c195bf"}
+2015-04-30 15:33:37.886 Airlines[97846:3096431] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:33:37.886 Airlines[97846:3096431] Browser readyState: 'complete'
+2015-04-30 15:33:42.895 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:42.895 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"7b4ee0ec-d2cd-4421-8992-f5b61bcb80cf","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"tagName":"a","index":10}],"getResult":true}}}},"fromId":"dc353c74-493f-433f-97a4-56c051c195bf"}
+2015-04-30 15:33:43.296 Airlines[97846:3096430] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:33:43.297 Airlines[97846:3096430] Browser readyState: 'complete'
+2015-04-30 15:33:48.316 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:48.316 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"f36cb039-6ab7-4894-8389-c345fc9d484a","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-passenger"}],"getResult":true}}}},"fromId":"dc353c74-493f-433f-97a4-56c051c195bf"}
+2015-04-30 15:33:48.710 Airlines[97846:3096415] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:33:48.711 Airlines[97846:3096415] Browser readyState: 'complete'
+2015-04-30 15:33:48.715 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:48.715 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"3ff50ef2-0042-43fc-b385-38ac40024619","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-flight"}],"getResult":true}}}},"fromId":"dc353c74-493f-433f-97a4-56c051c195bf"}
+2015-04-30 15:33:49.091 Airlines[97846:3096415] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:33:49.091 Airlines[97846:3096415] Browser readyState: 'complete'
+2015-04-30 15:33:49.094 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:49.094 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"11353997-f4b4-4566-8114-7de635084e7a","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-depart"}],"getResult":true}}}},"fromId":"dc353c74-493f-433f-97a4-56c051c195bf"}
+2015-04-30 15:33:49.493 Airlines[97846:3096484] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:33:49.494 Airlines[97846:3096484] Browser readyState: 'complete'
+2015-04-30 15:33:49.498 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:49.498 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"d51aeb11-e555-44e0-9d82-bb11465b160b","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-gate"}],"getResult":true}}}},"fromId":"dc353c74-493f-433f-97a4-56c051c195bf"}
+2015-04-30 15:33:49.894 Airlines[97846:3096414] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:33:49.894 Airlines[97846:3096414] Browser readyState: 'complete'
+2015-04-30 15:33:49.900 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:49.900 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"62870af1-fe6c-4ab9-b14d-dd0d641e3167","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-seat"}],"getResult":true}}}},"fromId":"dc353c74-493f-433f-97a4-56c051c195bf"}
+2015-04-30 15:33:50.299 Airlines[97846:3096414] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:33:50.299 Airlines[97846:3096414] Browser readyState: 'complete'
+2015-04-30 15:33:50.304 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:50.304 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"5e71bf6b-2e72-40d0-acf9-31bf1819cd67","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"className":"ui-btn-right ui-btn ui-shadow ui-btn-corner-all ui-btn-up-a"}],"getResult":true}}}},"fromId":"dc353c74-493f-433f-97a4-56c051c195bf"}
+2015-04-30 15:33:50.705 Airlines[97846:3096414] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:33:50.705 Airlines[97846:3096414] Browser readyState: 'complete'
+2015-04-30 15:33:55.721 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:33:55.721 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"306d1136-b0c5-47a5-a8ed-e6234041ee56","toId":"aba58179-928b-43de-8e3b-40c46e76ebac","data":{"cmd":"coreApi.endExecution"},"fromId":"dc353c74-493f-433f-97a4-56c051c195bf"}
+2015-04-30 15:33:55.722 Airlines[97846:3094442] TSWebSocketsClientRemoteAutomationProvider - webSocket:didCloseWithCode:reason:wasClean:
+2015-04-30 15:33:55.722 Airlines[97846:3094442] TSRemoteAutomationStateMachine - remoteAutomationProviderConnectionEnded:
+2015-04-30 15:40:29.788 Airlines[98760:3102651] +[UIApplication (TSExtend) load]
+2015-04-30 15:40:29.822 Airlines[98760:3102651] +[UITableView (TSTableView) load]
+2015-04-30 15:40:29.823 Airlines[98760:3102651] +[UITextView (TSTextView) load]
+2015-04-30 15:40:29.840 Airlines[98760:3102651] +[UIPickerView (TSPickerView) load]
+2015-04-30 15:40:29.855 Airlines[98760:3102651] +[UITextField (TSTextField) Load]
+2015-04-30 15:40:29.856 Airlines[98760:3102651] +[UICollectionView (TSCollectionView) load]
+2015-04-30 15:40:29.856 Airlines[98760:3102651] +[UISearchBar (TSSearchBar) load]
+2015-04-30 15:40:29.856 Airlines[98760:3102651] +[UIWebView (TSWebView) load]
+2015-04-30 15:40:29.927 Airlines[98760:3102651] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/0456ADEA-4853-4018-83CE-6AB15FD20B73/Library/Cookies/Cookies.binarycookies
+2015-04-30 15:40:30.051 Airlines[98760:3102651] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-30 15:40:30.051 Airlines[98760:3102651] Multi-tasking -> Device: YES, App: YES
+2015-04-30 15:40:30.053 Airlines[98760:3102651] Unlimited access to network resources
+2015-04-30 15:40:30.056 Airlines[98760:3102651] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 15:40:30.153 Airlines[98760:3102651] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-04-30 15:40:30.167 Airlines[98760:3102651] Injecting jsLib: 'SUCCESS'
+2015-04-30 15:40:30.175 Airlines[98760:3102651] Starting Mobile Testing...
+2015-04-30 15:40:30.175 Airlines[98760:3102651] TestStudioPlugin - startup
+2015-04-30 15:40:30.212 Airlines[98760:3102651] TestStudioPlugin - startup command: (null)
+2015-04-30 15:40:30.212 Airlines[98760:3102651] App starting normally...
+2015-04-30 15:40:30.252 Airlines[98760:3102651] tsWebViewDidStartLoad:
+2015-04-30 15:40:30.252 Airlines[98760:3102651] Resetting plugins due to page load.
+2015-04-30 15:40:30.657 Airlines[98760:3102651] tsWebViewDidFinishLoad:
+2015-04-30 15:40:30.658 Airlines[98760:3102651] Injecting jsLib: '_tsLib already exists'
+2015-04-30 15:40:30.658 Airlines[98760:3102651] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/908B2F5C-A8B0-4A47-9B65-7E8DBC522845/Airlines.app/www/index.html#logon
+2015-04-30 15:40:59.690 Airlines[98760:3102651] Stopping Mobile Testing...
+2015-04-30 15:40:59.690 Airlines[98760:3102651] Error: Attempted to stop state machine that was already stopped.
+2015-04-30 15:40:59.690 Airlines[98760:3102651] Shutdown completed...
+2015-04-30 15:41:41.368 Airlines[98760:3102651] Starting Mobile Testing...
+2015-04-30 15:41:41.369 Airlines[98760:3102651] TestStudioPlugin - startup
+2015-04-30 15:41:41.370 Airlines[98760:3102651] TestStudioPlugin - startup command: <TSLaunchForAutomationConnectionCommand: 0x7ba52b60>
+2015-04-30 15:41:41.370 Airlines[98760:3102651] Mobile Testing Extension initialized...
+2015-04-30 15:41:41.371 Airlines[98760:3102651] Installing Crash Handler: TSPluginCrashHandler
+2015-04-30 15:41:41.378 Airlines[98760:3102651] TSPluginCommandRunner - handleLaunchForAutomationConnectionCommand: <TSLaunchForAutomationConnectionCommand: 0x7ba52b60>
+2015-04-30 15:41:41.378 Airlines[98760:3102651] Starting with ConnectionInfo.
+2015-04-30 15:41:41.378 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - start
+2015-04-30 15:41:41.383 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocketDidOpen:
+2015-04-30 15:41:41.383 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProviderEstablishedConnection:
+2015-04-30 15:41:41.384 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:41.384 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"fromId":"server","toId":"9552bee0-24b5-40f9-8d61-6f9ca10be4df","id":"efec3f04-30d4-41fd-a5d6-7c8e4070bee1","data":{"handshake":"hs_get_client_info"}}
+2015-04-30 15:41:41.385 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:41.385 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"fromId":"server","toId":"9552bee0-24b5-40f9-8d61-6f9ca10be4df","id":"d5dd285b-4641-4527-97bf-ce59b1b20cfe","data":{"handshake":"hs_accepted","id":"662273f9-ce95-4427-8f52-aa8f9de70fd6"},"responseToMessageId":"D9F80A8A-B911-4C26-AC29-D5BFF2EF89CD-98760-0000F61C35B268ED"}
+2015-04-30 15:41:41.398 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:41.398 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"2a6d4e5d-2d14-47c6-8d84-ab00655c3285","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent = \"jaxon.daniels@gmail.com\";","query":[{"tagName":"input","index":0}],"getResult":true}}}},"fromId":"9005827b-1180-42cc-a2ea-a605dd570fa9"}
+2015-04-30 15:41:41.797 Airlines[98760:3104889] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:41:41.797 Airlines[98760:3104889] Browser readyState: 'complete'
+2015-04-30 15:41:41.799 Airlines[98760:3102651] Injecting jsLib: 'true'
+2015-04-30 15:41:41.802 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:41.803 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"b5c39479-0b1b-41dd-b682-73be4c3807e6","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent = \"P2ssw0rd\";","query":[{"tagName":"input","index":1}],"getResult":true}}}},"fromId":"9005827b-1180-42cc-a2ea-a605dd570fa9"}
+2015-04-30 15:41:42.202 Airlines[98760:3104889] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:41:42.203 Airlines[98760:3104889] Browser readyState: 'complete'
+2015-04-30 15:41:42.206 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:42.206 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"b2d886bd-03c1-47b3-bfd8-f72a11090eb6","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"tagName":"input","index":2}],"getResult":true}}}},"fromId":"9005827b-1180-42cc-a2ea-a605dd570fa9"}
+2015-04-30 15:41:42.602 Airlines[98760:3104889] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:41:42.602 Airlines[98760:3104889] Browser readyState: 'complete'
+2015-04-30 15:41:52.617 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:52.617 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"b0b90f9c-a3a1-4373-a83c-3cffb1fb02e5","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"tagName":"a","index":0}],"getResult":true}}}},"fromId":"9005827b-1180-42cc-a2ea-a605dd570fa9"}
+2015-04-30 15:41:53.015 Airlines[98760:3104910] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:41:53.016 Airlines[98760:3104910] Browser readyState: 'complete'
+2015-04-30 15:41:53.059 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:53.060 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"7a9d1c41-b401-4de8-b770-ee081c4daa5b","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"xpath":"//*[@id=\"1111\"]"}],"getResult":true}}}},"fromId":"9005827b-1180-42cc-a2ea-a605dd570fa9"}
+2015-04-30 15:41:53.458 Airlines[98760:3104910] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:41:53.458 Airlines[98760:3104910] Browser readyState: 'complete'
+2015-04-30 15:41:58.471 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:41:58.471 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"666eba28-2bd6-4a65-86ac-cbf8165bc567","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"tagName":"a","index":10}],"getResult":true}}}},"fromId":"9005827b-1180-42cc-a2ea-a605dd570fa9"}
+2015-04-30 15:41:58.867 Airlines[98760:3104896] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:41:58.868 Airlines[98760:3104896] Browser readyState: 'complete'
+2015-04-30 15:42:03.891 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:42:03.891 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"f7bf2b29-2842-422f-94d4-cdfb09605a61","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-passenger"}],"getResult":true}}}},"fromId":"9005827b-1180-42cc-a2ea-a605dd570fa9"}
+2015-04-30 15:42:04.292 Airlines[98760:3104892] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:42:04.292 Airlines[98760:3104892] Browser readyState: 'complete'
+2015-04-30 15:42:04.296 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:42:04.296 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"74149b2f-74f0-4bba-b418-dca350e00c65","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-flight"}],"getResult":true}}}},"fromId":"9005827b-1180-42cc-a2ea-a605dd570fa9"}
+2015-04-30 15:42:04.695 Airlines[98760:3104890] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:42:04.695 Airlines[98760:3104890] Browser readyState: 'complete'
+2015-04-30 15:42:04.698 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:42:04.698 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"441e181f-cd79-4441-ab0d-ed9e3cd4a587","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-depart"}],"getResult":true}}}},"fromId":"9005827b-1180-42cc-a2ea-a605dd570fa9"}
+2015-04-30 15:42:05.074 Airlines[98760:3104890] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:42:05.075 Airlines[98760:3104890] Browser readyState: 'complete'
+2015-04-30 15:42:05.079 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:42:05.079 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"1af5f8bc-cca2-4d5e-b415-b3206d078610","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-gate"}],"getResult":true}}}},"fromId":"9005827b-1180-42cc-a2ea-a605dd570fa9"}
+2015-04-30 15:42:05.473 Airlines[98760:3104890] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:42:05.474 Airlines[98760:3104890] Browser readyState: 'complete'
+2015-04-30 15:42:05.477 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:42:05.477 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"07501403-ee1e-40db-9f84-7428bbd4a9a6","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-seat"}],"getResult":true}}}},"fromId":"9005827b-1180-42cc-a2ea-a605dd570fa9"}
+2015-04-30 15:42:05.878 Airlines[98760:3104892] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:42:05.878 Airlines[98760:3104892] Browser readyState: 'complete'
+2015-04-30 15:42:05.883 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:42:05.883 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"49f9f72d-aaa2-4c09-8863-32b5968e3bf4","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"className":"ui-btn-right ui-btn ui-shadow ui-btn-corner-all ui-btn-up-a"}],"getResult":true}}}},"fromId":"9005827b-1180-42cc-a2ea-a605dd570fa9"}
+2015-04-30 15:42:06.283 Airlines[98760:3104892] waitUntilReady slept for 0.3 seconds
+2015-04-30 15:42:06.284 Airlines[98760:3104892] Browser readyState: 'complete'
+2015-04-30 15:42:11.298 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-04-30 15:42:11.299 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"da13ab51-d5dd-40bf-8218-c920f2ccd8c2","toId":"662273f9-ce95-4427-8f52-aa8f9de70fd6","data":{"cmd":"coreApi.endExecution"},"fromId":"9005827b-1180-42cc-a2ea-a605dd570fa9"}
+2015-04-30 15:42:11.300 Airlines[98760:3102651] TSWebSocketsClientRemoteAutomationProvider - webSocket:didCloseWithCode:reason:wasClean:
+2015-04-30 15:42:11.300 Airlines[98760:3102651] TSRemoteAutomationStateMachine - remoteAutomationProviderConnectionEnded:
+2015-05-01 14:29:12.786 Airlines[16564:552718] +[UIApplication (TSExtend) load]
+2015-05-01 14:29:12.819 Airlines[16564:552718] +[UITableView (TSTableView) load]
+2015-05-01 14:29:12.820 Airlines[16564:552718] +[UITextView (TSTextView) load]
+2015-05-01 14:29:12.821 Airlines[16564:552718] +[UIPickerView (TSPickerView) load]
+2015-05-01 14:29:12.822 Airlines[16564:552718] +[UITextField (TSTextField) Load]
+2015-05-01 14:29:12.822 Airlines[16564:552718] +[UICollectionView (TSCollectionView) load]
+2015-05-01 14:29:12.822 Airlines[16564:552718] +[UISearchBar (TSSearchBar) load]
+2015-05-01 14:29:12.822 Airlines[16564:552718] +[UIWebView (TSWebView) load]
+2015-05-01 14:29:12.858 Airlines[16564:552718] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Data/Application/09302366-276C-4ACE-871A-5DB772C1077F/Library/Cookies/Cookies.binarycookies
+2015-05-01 14:29:12.943 Airlines[16564:552718] Apache Cordova native platform version 3.7.0 is starting.
+2015-05-01 14:29:12.943 Airlines[16564:552718] Multi-tasking -> Device: YES, App: YES
+2015-05-01 14:29:12.945 Airlines[16564:552718] Unlimited access to network resources
+2015-05-01 14:29:12.947 Airlines[16564:552718] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-01 14:29:13.039 Airlines[16564:552718] Swizzled UIWebView delegate methods with JRSwizzle!
+2015-05-01 14:29:13.054 Airlines[16564:552718] Injecting jsLib: 'SUCCESS'
+2015-05-01 14:29:13.135 Airlines[16564:552718] Starting Mobile Testing...
+2015-05-01 14:29:13.136 Airlines[16564:552718] TestStudioPlugin - startup
+2015-05-01 14:29:13.166 Airlines[16564:552718] TestStudioPlugin - startup command: (null)
+2015-05-01 14:29:13.166 Airlines[16564:552718] App starting normally...
+2015-05-01 14:29:13.481 Airlines[16564:552718] tsWebViewDidStartLoad:
+2015-05-01 14:29:13.481 Airlines[16564:552718] Resetting plugins due to page load.
+2015-05-01 14:29:13.755 Airlines[16564:552718] tsWebViewDidFinishLoad:
+2015-05-01 14:29:13.755 Airlines[16564:552718] Injecting jsLib: '_tsLib already exists'
+2015-05-01 14:29:13.755 Airlines[16564:552718] Finished load of: file:///Users/shoerob/Library/Developer/CoreSimulator/Devices/37672DE9-E9D4-426E-8955-E7B51923D729/data/Containers/Bundle/Application/9365870E-8F86-4B4B-9550-B012E8F35472/Airlines.app/www/index.html#logon
+2015-05-01 14:29:41.111 Airlines[16564:552718] Stopping Mobile Testing...
+2015-05-01 14:29:41.111 Airlines[16564:552718] Error: Attempted to stop state machine that was already stopped.
+2015-05-01 14:29:41.111 Airlines[16564:552718] Shutdown completed...
+2015-05-01 14:34:32.422 Airlines[16564:552718] Starting Mobile Testing...
+2015-05-01 14:34:32.422 Airlines[16564:552718] TestStudioPlugin - startup
+2015-05-01 14:34:32.423 Airlines[16564:552718] TestStudioPlugin - startup command: <TSLaunchForAutomationConnectionCommand: 0x78a085f0>
+2015-05-01 14:34:32.423 Airlines[16564:552718] Mobile Testing Extension initialized...
+2015-05-01 14:34:32.427 Airlines[16564:552718] Installing Crash Handler: TSPluginCrashHandler
+2015-05-01 14:34:32.433 Airlines[16564:552718] TSPluginCommandRunner - handleLaunchForAutomationConnectionCommand: <TSLaunchForAutomationConnectionCommand: 0x78a085f0>
+2015-05-01 14:34:32.433 Airlines[16564:552718] Starting with ConnectionInfo.
+2015-05-01 14:34:32.433 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - start
+2015-05-01 14:34:32.491 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocketDidOpen:
+2015-05-01 14:34:32.491 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProviderEstablishedConnection:
+2015-05-01 14:34:32.491 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:32.492 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"fromId":"server","toId":"66e42a46-a110-4b43-ae9c-9f3d7eea9cd5","id":"475e75ed-f909-4e70-8a00-f7f59151407f","data":{"handshake":"hs_get_client_info"}}
+2015-05-01 14:34:32.495 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:32.495 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"fromId":"server","toId":"66e42a46-a110-4b43-ae9c-9f3d7eea9cd5","id":"bddf61b5-85d0-452d-8f0a-4a7961da6a93","data":{"handshake":"hs_accepted","id":"1c5ad395-f10e-4aa4-8340-4cb43651b905"},"responseToMessageId":"2D1A1025-8BBE-4B72-89EC-38E459FD2DC3-16564-0000280D45DFA9BD"}
+2015-05-01 14:34:32.510 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:32.510 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"3bab581f-6bdf-49bc-b56f-72b52b07ccaf","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent = \"jaxon.daniels@gmail.com\";","query":[{"tagName":"input","index":0}],"getResult":true}}}},"fromId":"73ff98a2-8ac2-4b8a-b781-e08b0bbb545a"}
+2015-05-01 14:34:32.909 Airlines[16564:558607] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:32.910 Airlines[16564:558607] Browser readyState: 'complete'
+2015-05-01 14:34:32.911 Airlines[16564:552718] Injecting jsLib: 'true'
+2015-05-01 14:34:32.916 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:32.916 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"219dcb6a-bf0c-4245-a59e-d903d17c467d","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent = \"P2ssw0rd\";","query":[{"tagName":"input","index":1}],"getResult":true}}}},"fromId":"73ff98a2-8ac2-4b8a-b781-e08b0bbb545a"}
+2015-05-01 14:34:33.216 Airlines[16564:558607] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:33.217 Airlines[16564:558607] Browser readyState: 'complete'
+2015-05-01 14:34:33.221 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:33.221 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"e2124b78-cbb6-487e-99f0-208e3f479cd4","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"tagName":"input","index":2}],"getResult":true}}}},"fromId":"73ff98a2-8ac2-4b8a-b781-e08b0bbb545a"}
+2015-05-01 14:34:33.621 Airlines[16564:558607] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:33.622 Airlines[16564:558607] Browser readyState: 'complete'
+2015-05-01 14:34:43.633 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:43.633 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"6e434282-8acb-407a-88ce-a26895e25321","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"tagName":"a","index":0}],"getResult":true}}}},"fromId":"73ff98a2-8ac2-4b8a-b781-e08b0bbb545a"}
+2015-05-01 14:34:44.025 Airlines[16564:558606] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:44.025 Airlines[16564:558606] Browser readyState: 'complete'
+2015-05-01 14:34:44.063 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:44.064 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"060fb030-5476-411d-a67d-296e64311a61","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"xpath":"//*[@id=\"1111\"]"}],"getResult":true}}}},"fromId":"73ff98a2-8ac2-4b8a-b781-e08b0bbb545a"}
+2015-05-01 14:34:44.405 Airlines[16564:554229] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:44.406 Airlines[16564:554229] Browser readyState: 'complete'
+2015-05-01 14:34:49.415 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:49.415 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"de5da1a3-b9f5-4f92-8608-ca492c5c71af","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"tagName":"a","index":10}],"getResult":true}}}},"fromId":"73ff98a2-8ac2-4b8a-b781-e08b0bbb545a"}
+2015-05-01 14:34:49.812 Airlines[16564:554229] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:49.812 Airlines[16564:554229] Browser readyState: 'complete'
+2015-05-01 14:34:54.832 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:54.832 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"4c691275-aeb3-43fd-81c4-1857a698906f","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-passenger"}],"getResult":true}}}},"fromId":"73ff98a2-8ac2-4b8a-b781-e08b0bbb545a"}
+2015-05-01 14:34:55.232 Airlines[16564:558621] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:55.232 Airlines[16564:558621] Browser readyState: 'complete'
+2015-05-01 14:34:55.236 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:55.236 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"62cd57f6-4ef3-4660-be09-9285cf79cf0b","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-flight"}],"getResult":true}}}},"fromId":"73ff98a2-8ac2-4b8a-b781-e08b0bbb545a"}
+2015-05-01 14:34:55.633 Airlines[16564:558621] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:55.634 Airlines[16564:558621] Browser readyState: 'complete'
+2015-05-01 14:34:55.637 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:55.637 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"cfb90619-e0db-48b3-8539-a609854b0376","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-depart"}],"getResult":true}}}},"fromId":"73ff98a2-8ac2-4b8a-b781-e08b0bbb545a"}
+2015-05-01 14:34:56.032 Airlines[16564:558625] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:56.033 Airlines[16564:558625] Browser readyState: 'complete'
+2015-05-01 14:34:56.036 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:56.037 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"30ed2586-b71f-4cf9-8abd-68508c6f311b","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-gate"}],"getResult":true}}}},"fromId":"73ff98a2-8ac2-4b8a-b781-e08b0bbb545a"}
+2015-05-01 14:34:56.436 Airlines[16564:558621] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:56.436 Airlines[16564:558621] Browser readyState: 'complete'
+2015-05-01 14:34:56.439 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:56.440 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"e07fce0b-8e42-4223-ac1b-01d0a4ad79af","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"targetElement.textContent","query":[{"id":"boardingpass-seat"}],"getResult":true}}}},"fromId":"73ff98a2-8ac2-4b8a-b781-e08b0bbb545a"}
+2015-05-01 14:34:56.839 Airlines[16564:558625] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:56.840 Airlines[16564:558625] Browser readyState: 'complete'
+2015-05-01 14:34:56.845 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:34:56.846 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"6f68f129-6f4e-44ea-a284-9da17740ea7d","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"ios.automateWeb","params":{"query":[{"class":"UIWebView"}],"webCommand":{"cmd":"web.executeScript","params":{"script":"(function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mousedown\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"mouseup\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); (function() {var locX = targetElement.clientLeft + Math.floor(targetElement.clientWidth / 2);var locY = targetElement.clientTop + Math.floor(targetElement.clientHeight / 2);var e = document.createEvent(\"MouseEvents\");e.initMouseEvent(\"click\", true, true, window, 1, 0, 0, locX, locY, false, false, false, false, 0, null);targetElement.dispatchEvent(e);})(); ","query":[{"className":"ui-btn-right ui-btn ui-shadow ui-btn-corner-all ui-btn-up-a"}],"getResult":true}}}},"fromId":"73ff98a2-8ac2-4b8a-b781-e08b0bbb545a"}
+2015-05-01 14:34:57.241 Airlines[16564:558625] waitUntilReady slept for 0.3 seconds
+2015-05-01 14:34:57.242 Airlines[16564:558625] Browser readyState: 'complete'
+2015-05-01 14:35:02.258 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didReceiveMessage:
+2015-05-01 14:35:02.258 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProvider:receivedMessage: {"id":"2e057e68-8e20-4d6b-96e2-bb2ff5813272","toId":"1c5ad395-f10e-4aa4-8340-4cb43651b905","data":{"cmd":"coreApi.endExecution"},"fromId":"73ff98a2-8ac2-4b8a-b781-e08b0bbb545a"}
+2015-05-01 14:35:02.260 Airlines[16564:552718] TSWebSocketsClientRemoteAutomationProvider - webSocket:didCloseWithCode:reason:wasClean:
+2015-05-01 14:35:02.261 Airlines[16564:552718] TSRemoteAutomationStateMachine - remoteAutomationProviderConnectionEnded:

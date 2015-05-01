@@ -1,0 +1,32 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "AndroidManifest.xml": {
+                "parents": {
+                    "/manifest/application": [
+                        {
+                            "xml": "<activity android:name=\"com.telerik.testingextension.EntryPoint\" android:theme=\"@android:style/Theme.NoDisplay\"><intent-filter><action android:name=\"com.telerik.testing.ACTION_AUTOMATE\" /><category android:name=\"android.intent.category.DEFAULT\" /></intent-filter></activity>",
+                            "count": 1
+                        }
+                    ],
+                    "/manifest": [
+                        {
+                            "xml": "<instrumentation android:name=\"com.telerik.testingextension.MobileTestingInstrumentation\" android:targetPackage=\"com.telerik.Airlines\" />",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.telerik.mobiletesting": {
+            "PACKAGE_NAME": "com.telerik.Airlines"
+        }
+    },
+    "dependent_plugins": {}
+}

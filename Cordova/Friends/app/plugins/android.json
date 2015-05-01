@@ -1,0 +1,59 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "AndroidManifest.xml": {
+                "parents": {
+                    "/manifest/application": [
+                        {
+                            "xml": "<activity android:name=\"com.telerik.testingextension.EntryPoint\" android:theme=\"@android:style/Theme.NoDisplay\"><intent-filter><action android:name=\"com.telerik.testing.ACTION_AUTOMATE\" /><category android:name=\"android.intent.category.DEFAULT\" /></intent-filter></activity>",
+                            "count": 1
+                        }
+                    ],
+                    "/manifest": [
+                        {
+                            "xml": "<instrumentation android:name=\"com.telerik.testingextension.MobileTestingInstrumentation\" android:targetPackage=\"com.telerik.Friends\" />",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "res/xml/config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"Device\"><param name=\"android-package\" value=\"org.apache.cordova.device.Device\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Notification\"><param name=\"android-package\" value=\"org.apache.cordova.dialogs.Notification\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"SplashScreen\"><param name=\"android-package\" value=\"org.apache.cordova.splashscreen.SplashScreen\" /><param name=\"onload\" value=\"true\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.telerik.mobiletesting": {
+            "PACKAGE_NAME": "com.telerik.Friends"
+        },
+        "org.apache.cordova.device": {
+            "PACKAGE_NAME": "com.telerik.Friends"
+        },
+        "org.apache.cordova.dialogs": {
+            "PACKAGE_NAME": "com.telerik.Friends"
+        },
+        "org.apache.cordova.splashscreen": {
+            "PACKAGE_NAME": "com.telerik.Friends"
+        }
+    },
+    "dependent_plugins": {}
+}
